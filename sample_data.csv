@@ -1,0 +1,428 @@
+Filename,natural killer cells,Sex,cumulative life stress,treatment for anxiety disorder,personal life stress,body mass index,treatment for posttraumatic stress disorder,age,kreek-mchugh-schluger-kellogg scale score for current tobacco use,dna methylation-predicted age,network life stress,monocytes,posttraumatic stress disorder symptom scale total score,b cells,kreek-mchugh-schluger-kellogg scale score for current alcohol use,childhood trauma questionnaire total score,cd4 t cells,beck depression inventory total score,kreek-mchugh-schluger-kellogg scale score for current marijuana use,kreek-mchugh-schluger-kellogg scale score for current heroin use,cd8 t cells,race/ethnicity,granulocytes,current stress,kreek-mchugh-schluger-kellogg scale score for current cocaine use,childhood sexual/physical abuse moderate to extreme,treatment,cell line,tissue,treatment for bipolar disorder,treatment for depression
+GSM1946540.soft,0.0395,Female,--,--,--,17.78569837,Yes,38,10,39.3564,--,0.088,31,0.0311,0,76,0.1351,31,0,0,0.0183,Caucasian,0.7,--,0,Yes, , ,whole Blood,--,Yes
+GSM1868344.soft,0.09724,Female,10,No,5,20.15979569,No,26, ,26.18893139,5,0.08787,11,0.09243, ,31,0.26875,11, , ,0.05453,African American,0.40365,4, ,Yes, , ,whole Blood,No,No
+GSM1868385.soft,0.08086,Male,11,No,8,23.67932809,No,52, ,45.31559982,3,0.07535,8,0.08565, ,36,0.24975,5, , ,0.07455,African American,0.46533,7, ,No, , ,whole Blood,No,Yes
+GSM1868177.soft,0.07102,Female,11,Yes,6,41.97368929,No,36, ,39.55958968,5,0.08132,1,0.08134, ,30,0.16319,11, , ,0.01307,African American,0.58992,6, ,Yes, , ,whole Blood,No,No
+GSM1868165.soft,0.10973,Female,11,No,8,22.9112426,No,58,7,54.0778294,3,0.06168,16,0.07491,0,44,0.24988,30,0,0,0.04348,African American,0.46581,5,0,Yes, , ,whole Blood,No, 
+GSM1868199.soft,0.15043,Male,11,No,8,34.9702381,No,59,0,59.37482255,3,0.14656,0,0.06068,7,34,0.22812,4,0,0,0.1031,African American,0.35296,0,0,No, , ,whole Blood,No,No
+GSM1868041.soft,0.10344,Male,7,No,5,19.56867763,No,52, ,53.00771766,2,0.08613,3,0.07657, ,33,0.23368,6, , ,0.05842,African American,0.46888,5, ,No, , ,whole Blood,No,Yes
+GSM1868318.soft,0.08719,Female,11,No,7,33.74398357,No,66,0,59.3895935,4,0.08453,12,0.07148,5,35,0.24228,22,0,0,0.05572,African American,0.48276,0,0,Yes, , ,whole Blood,No,No
+GSM1868248.soft,0.02965,Female,11,No,7,41.90105706,No,29,8,30.32248005,4,0.09078,0,0.07205,0,32,0.19772,15,12,0,0.04792,African American,0.57561,1,0,No, , ,whole Blood,No,No
+GSM1868062.soft,0.04756,Female, ,No, ,58.14508724,No,45, ,43.87426042,4,0.11125,32,0.07121, ,25,0.25957,37, , ,0.06098,African American,0.4669, , ,No, , ,whole Blood,No,No
+GSM1868416.soft,0.07596,Male,11,No,8,23.25936327,No,52,0,51.6299892,3,0.09586,0,0.07204,0,27,0.14545,3,0,0,0.0051,African American,0.63679,2,0,No, , ,whole Blood,No,No
+GSM1868354.soft,0.16035,Male, ,No, ,24.17464826,No,58,0,60.33973325,1,0.08713,3,0.12173,0, ,0.20457,18,0,0,0.17174,African American,0.27633, ,0, , , ,whole Blood,No,No
+GSM1868359.soft,0.11674,Female,18,Yes,13,34.9635796,No,44,0,52.50957811,5,0.12279,20,0.01447,0,58,0.27669,40,0,0,0.03351,African American,0.44916,9,0,No, , ,whole Blood,Yes,Yes
+GSM1868422.soft,0.0337,Female,12,No,7,20.55164954,No,47,12,47.42317205,5,0.10532,32,0.04047,11,56,0.22095,50,0,0,0.00823,African American,0.60476,11,9,Yes, , ,whole Blood,No,Yes
+GSM1868182.soft,0.04899,Female,18,Yes,12,42.3775635,No,51, ,49.77642145,6,0.11798,2,0.04763, ,73,0.13879,29, , ,0.057,African American,0.60839,5, ,Yes, , ,whole Blood,No,Yes
+GSM1868176.soft,0.07028,Female,11,No,9,32.93311754,No,34,0,32.47766612,2,0.07473, ,0.06627,3,60,0.22851, ,11,0,0.01693,African American,0.55675,4,0,Yes, , ,whole Blood,No,No
+GSM1868214.soft,0.04454,Male,7,No,7,24.81632653,No,51, ,53.04780487,0,0.09818,24,0.04797, ,46,0.2176,17, , ,0.0372,African American,0.57527,3, ,No, , ,whole Blood,No,No
+GSM1868262.soft,0.06118,Female,14,Yes,11,23.27467142,No,45,0,40.22716548,3,0.19245,19,0.05748,0,43,0.11985,19,0,0,0.0185,African American,0.56142,4,0,Yes, , ,whole Blood,No,No
+GSM1868143.soft,0.1043,Female,16,No,11,28.61004203,No,34, ,32.52110066,5,0.06383,7,0.09499, ,39,0.21986,5, , ,0.04895,African American,0.47661,8, ,No, , ,whole Blood,No,No
+GSM1868178.soft,0.03596,Male, ,No, ,38.35851684,Yes,47, ,45.42677924,3,0.10429,33,0.10713, ,67,0.20427,35, , ,0,African American,0.56618, , ,Yes, , ,whole Blood,Yes,Yes
+GSM1946529.soft,0.1075,Female,17,Yes,13,23.53348355,Yes,40,0,35.7076,4,0.1744,15,0.012,4,77,0.1062,7,0,0,0.0163,Caucasian,0.5886,5,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868184.soft,0.02208,Female,3,No,1, ,No,48,0,33.42177403,2,0.13148, ,0.04513,0,59,0.16317,37,10,0,0.03326,African American,0.61847,3,0,No, , ,whole Blood,No,No
+GSM1868331.soft,0.04858,Male,11,No,7,26.10388533,Yes,48,5,38.24018726,4,0.15075,29,0.05597,0,108,0.23974,21,0,0,0.08018,African American,0.41825,4,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868399.soft,0.02542,Female,7,No,5,37.69438185,No,20,0,19.68646927,2,0.10405, ,0.10783,0,30,0.25951,14,0,0,0.10963,African American,0.42352,4,0,No, , ,whole Blood,No,No
+GSM1868189.soft,0.12522,Female,12,No,7,38.6003356,No,57,0,54.45784865,5,0.07946,7,0.10395,0,31,0.18347,6,0,0,0.10797,African American,0.4304,5,0,No, , ,whole Blood,No,No
+GSM1868154.soft,0.07995,Male,6,No,5,25.42684353,No,33,6,29.51838933,1,0.07901,5,0.05577,8,30,0.16819,1,12,0,0.01142,African American,0.6227,5,0,No, , ,whole Blood,No,No
+GSM1868161.soft,0.03677,Female,16,No,10,47.44450231,Yes,33,0,27.19894722,6,0.07253,23,0.06262,5,36,0.20539,8,8,0,0.06422,African American,0.56257,9,0,Yes, , ,whole Blood,No,Yes
+GSM1868312.soft,0.07704,Male,13,No,9,26.36708731,No,32, ,36.41800625,4,0.11745,1,0.03553, ,35,0.15401,0, , ,0.02295,African American,0.60301,3, ,Yes, , ,whole Blood,No,No
+GSM1868339.soft,0.12187,Male, ,Yes, ,27.17459917,Yes,59,7,59.81207338,5,0.07556,6,0.04686,0,27,0.10917,2,12,13,0.01788,African American,0.64837, ,0,No, , ,whole Blood,No,Yes
+GSM1868083.soft,0.14321,Female,13,Yes,11,30.07004205,No,45,0,49.23475137,2,0.13901,9,0.03059,0,45,0.21552,0,0,0,0.17191,African American,0.32014,7,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868172.soft,0.04996,Female,17,No,12,29.9597275,No,21,0,43.4724398,5,0.15518,21,0.09778,0,56,0.26061,2,0,0,0.04364,African American,0.40766,9,0,No, , ,whole Blood,No,No
+GSM1868352.soft,0.07121,Male, ,No, ,29.16968593,No,33, ,35.7393079, ,0.08342, ,0.05249, ,30,0.25318,4, , ,0.08096,African American,0.46566, , ,No, , ,whole Blood,No,No
+GSM1868229.soft,0.05773,Female,4,No,3,38.75914709,No,42,0,46.50807941,1,0.05607,4,0.15052,0,33,0.28131, ,0,0,0.12955,African American,0.34736,1,0,Yes, , ,whole Blood,No,No
+GSM1868078.soft,0.06203,Female, , , ,33.93497911,No,44,0,41.36871219, ,0.10472,0,0.01785,0,29,0.14219,8,0,0,0.04633,African American,0.63307, ,0,No, , ,whole Blood, ,No
+GSM1868053.soft,0.04566,Female, ,No, ,41.70239556,No,40, ,36.43599744,4,0.08889,0,0.10859, ,45,0.15275,15, , ,0.02023,African American,0.59016, , ,Yes, , ,whole Blood,No,No
+GSM1868212.soft,0.05034,Male,16,No,11,26.92378329,No,31, ,31.3083211,5,0.11723,15,0.04564, ,70,0.07692,30, , ,0,African American,0.72564,5, ,Yes, , ,whole Blood,No,No
+GSM1868427.soft,0.12714,Male,10,No,7,34.78381099,No,51,0,48.41002147,3,0.09074,40,0.09199,6,60,0.27758,29,0,0,0.04571,African American,0.40952,5,0,Yes, , ,whole Blood,No,Yes
+GSM1868111.soft,0.12411,Female,14,No,8,33.86734968,No,54, ,61.26994324,6,0.07109,9,0.08796, , ,0.2696,3, , ,0.02014,African American,0.43584,9, , , , ,whole Blood,No,No
+GSM1868081.soft,0.01883,Male,12,Yes,7,32.33584357,No,57, ,46.61103724,5,0.12291,14,0.0831, ,45,0.15594,11, , ,0.00112,African American,0.63952,6, ,Yes, , ,whole Blood,No,Yes
+GSM1868152.soft,0.11577,Male,13,Yes,9,23.05570975,No,59,7,64.50355476,4,0.06998,21,0.06253,0,55,0.2394,21,0,0,0.11129,African American,0.41656,8,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868236.soft,0.14952,Male,8,No,4,25.80225931,Yes,25,0,28.68883103,4,0.11386,19,0.04544,11,26,0.21343,9,0,0,0.05029,African American,0.44465,2,0,No, , ,whole Blood,No,Yes
+GSM1946551.soft,0.0488,Female,6,--,4,51.46943534,--,50,--,56.1728,2,0.0604,9,0.0998,--,66,0.1615,--,--,--,0.0094,Caucasian,0.642,6,--,Yes, , ,whole Blood,--,--
+GSM1868420.soft,0.02155,Male,14,No,10,23.85307118,No,50,10,48.18850488,4,0.11059,8,0.0693,0,29,0.24237,30,0,0,0.03597,African American,0.53916,8,0,No, , ,whole Blood,No,No
+GSM1868140.soft,0.02529,Female,11,No,8,38.48736496,No,54, ,52.13076592,3,0.09731,13,0.02345, ,52,0.05015,23, , ,0,African American,0.81765,3, ,Yes, , ,whole Blood,No,No
+GSM1946554.soft,0.0377,Female,10,Yes,7,34.70899471,No,26,--,26.1632,3,0.0507,45,0.0771,--,76,0.2243,55,--,--,0.0937,Caucasian,0.5458,--,--,Yes, , ,whole Blood,Yes,No
+GSM1868201.soft,0.08431,Female,3,No,2,29.08871882,No,35,0,46.58524636,1,0.05317,5,0.09797,0,69,0.21001,0,0,0,0.14767,African American,0.44995,3,0,Yes, , ,whole Blood,No,No
+GSM1868302.soft,0.00935,Female,10,No,7,45.99146472,No,26,0,20.82929394,3,0.11275,34,0.03283,0,49,0.16596,44,0,0,0.03783,African American,0.64412,5,0,Yes, , ,whole Blood,No,No
+GSM1868219.soft,0.06924,Female,7,No,3,49.57370472,No,49,0,51.13222452,4,0.10179,0,0.10949,0,25,0.12903,0,0,0,0.05077,African American,0.56432,4,0,No, , ,whole Blood,No,No
+GSM1868095.soft,0.0644,Female,8,No,6,27.94092469,No,47, ,48.34690714,2,0.10435,5,0.03634, ,33,0.14585,18, , ,0.04754,African American,0.61452,5, ,No, , ,whole Blood,No,No
+GSM1868324.soft,0.09718,Male,12,No,8,23.1707439,No,24,0,26.61447571,4,0.12704,16,0.05028,12,33,0.14778, ,9,0,0.04876,African American,0.53977,8,0,No, , ,whole Blood,No,No
+GSM1868043.soft,0.0673,Female,10,No,6,39.60232527,No,25,0,25.48159463,4,0.06749,14,0.05058,0,38,0.15485,7,0,0,0.04607,African American,0.62256,6,0,Yes, , ,whole Blood,No,No
+GSM1868255.soft,0.07878,Female,12,No,10,26.41553267,No,23,11,28.61457897,2,0.10645,17,0.04829,8,49,0.15917,11, , ,0.04408,African American,0.57254,7, ,Yes, , ,whole Blood,No,No
+GSM1868075.soft,0.15486,Female,13,No,8, ,No,32,0,42.50350463,5,0.09385,4,0.03713,0,53,0.03117,2,0,0,0.23379,African American,0.46767,3,0,Yes, , ,whole Blood,No,No
+GSM1868064.soft,0.13005,Female,8,No,5,45.80800135,No,49, ,48.57689233,3,0.08747,14,0.06601, ,25,0.12595,10, , ,0.07015,African American,0.54265,3, ,No, , ,whole Blood,No,No
+GSM1868294.soft,0.12282,Female, ,No, ,72.96669938,No,36,0,38.22736168,5,0.0644,12,0.0906,5,52,0.21794,15,12,0,0.0237,African American,0.4977, ,0,Yes, , ,whole Blood,No,No
+GSM1868386.soft,0.03954,Female,8,No,6,36.61124185,Yes,46, ,48.290219,2,0.12462,30,0.08402, ,27,0.16749,10, , ,0.11159,African American,0.49297,4, ,No, , ,whole Blood,Yes,Yes
+GSM1868329.soft,0.09074,Male,14,No,10,28.75505874,No,33,8,30.56072367,4,0.06354,35,0.04149,9,58,0.26992,33,0,0,0.06826,African American,0.49199,10,0,Yes, , ,whole Blood,No,No
+GSM1868311.soft,0.12731,Male,8,No,6,30.1444924,No,46, ,48.73231554,2,0.10453,1,0.03212, ,33,0.20025,8, , ,0.03557,African American,0.51344,3, ,No, , ,whole Blood,No,No
+GSM1868414.soft,0.05888,Female, ,No,13,45.75163399,Yes,52,7,51.7011066, ,0.07795,10,0.07974,0,38,0.12692,23,0,0,0.03248,African American,0.64451, ,0,Yes, , ,whole Blood, ,No
+GSM1868130.soft,0.10459,Female, , , ,30.01040583,No,51,0,47.43167924, ,0.04764,25,0.17637,0,45,0.35909,23,0,0,0.15301,African American,0.17506, ,0,Yes, , ,whole Blood, ,Yes
+GSM1946537.soft,0.0994,Male,10,No,8,28.89273356,No,57,3,56.9144,2,0.0842,15,0.0703,0,27,0.2617,23,0,0,0.0509,Other,0.4574,3,0,No, , ,whole Blood,No,Yes
+GSM1868136.soft,0.07889,Female, ,No, ,27.47462295,No,48,0,46.33374949,3,0.1687,2,0.02633,7,49,0.09877,13,0,0,0,African American,0.62874, ,0,Yes, , ,whole Blood,No,No
+GSM1868338.soft,0.09129,Male,4,No,4,29.03596539,No,47, ,48.19479321,0,0.13701,1,0.10693, ,29,0.21197,0, , ,0.08343,African American,0.40216,1, ,No, , ,whole Blood,No,No
+GSM1868145.soft,0.08152,Male,12,No,9,23.14648414,No,39, ,32.9642031,3,0.06349,32,0.09988, ,28,0.3216,20, , ,0.11316,African American,0.3445,3, ,No, , ,whole Blood,No,No
+GSM1946552.soft,0.0855,Female,19,Yes,13,39.44497924,Yes,51,0,41.0333,6,0.0935,42,0.1254,0,54,0.1857,55,0,0,0.0842,Caucasian,0.49,8,0,No, , ,whole Blood,Yes,Yes
+GSM1868134.soft,0.01467,Female, ,No,3,25.58362386,No,18, ,15.0725845, ,0.07957,5,0.09178, ,25,0.27716,14, , ,0.109,African American,0.42145, , ,No, , ,whole Blood,No,No
+GSM1868265.soft,0.14501,Male,17,No,12,36.38956652,No,56,7,56.53067586,5,0.13083,23,0.03735,0,48,0.14936,25,4,0,0.03508,African American,0.51779,7,0,No, , ,whole Blood,No,No
+GSM1946546.soft,0.0609,Female,5,No,4,39.28743973,No,32,--,75.9836,1,0.0864,--,0.0807,--,25,0.2561,4,--,--,0.113,African American,0.4279,4,--,No, , ,whole Blood,No,No
+GSM1868213.soft,0.03475,Male,3,No,2,25.01131734,No,53,2,50.85794292,1,0.11113,15,0.06924,11,44,0.14779,24,0,0,0.03054,African American,0.62069,2,0,No, , ,whole Blood,No,No
+GSM1868289.soft,0.14144,Female,5,No,3,30.76841643,No,18,7,17.79512995,2,0.07625,10,0.11309,0,34,0.2779,21,0,0,0.11644,African American,0.29026,5,0,No, , ,whole Blood,No,No
+GSM1868411.soft,0.04922,Female,13,No,10,30.59492478,No,48,0,42.19928872,3,0.07135,0,0.09084,0,55,0.18372,1,8,0,0.02133,African American,0.60299,1,0,Yes, , ,whole Blood,No,No
+GSM1868391.soft,0.03844,Female, ,No, ,31.66089965,No,56, ,50.45221835,4,0.07885,4,0.0427, ,31,0.25836,5, , ,0.06182,African American,0.53712,4, ,No, , ,whole Blood,No,No
+GSM1868251.soft,0.06036,Female,9,No,4,24.23771813,No,20,0,17.53845076,5,0.03798,41,0.09034,4,42,0.23939,28, , ,0.0692,African American,0.52685,5,0,Yes, , ,whole Blood,No,No
+GSM1868254.soft,0.11263,Female,11,No,7,37.95153178,No,21,0,23.78462932,4,0.09654,22,0.08682,0,33,0.18087,8,0,0,0.12456,African American,0.42373,10,0,Yes, , ,whole Blood,No,No
+GSM1868392.soft,0.06115,Male,16,No,11,32.56704283,No,35,7,37.32413792,5,0.10342,35,0.07174,0,73,0.14895,6,0,0,0.11458,African American,0.52247,11,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868164.soft,0.12251,Male, ,No, , ,No,51,8,55.53654092, ,0.05874,5,0.12667,11,29,0.20713,13,6,0,0.03891,African American,0.46548, ,0,No, , ,whole Blood,No,No
+GSM1868171.soft,0.07653,Female, ,No,8,28.20191552,No,64, ,54.16907877, ,0.06259,1,0.10644, ,66,0.2921,2, , ,0.05961,African American,0.41701, , ,Yes, , ,whole Blood,No,No
+GSM1868063.soft,0.06625,Female,10,Yes,8,36.10651974,No,36, ,34.45576573,2,0.06787,1,0.03992, ,32,0.13824,6, , ,0.04438,African American,0.65002,2, ,No, , ,whole Blood,Yes,Yes
+GSM1868291.soft,0.05476,Male,7,No,6,27.36511504,No,52,4,52.49378034,1,0.11091,23,0.03613,11,31,0.18134,18,0, ,0.03698,African American,0.59541,5,0,No, , ,whole Blood,Yes,Yes
+GSM1868383.soft,0.04131,Male, ,No, ,22.5837282,No,18,6,20.90675262,4,0.06783,2,0.0579,8,41,0.23606,0,9,0,0.06422,African American,0.5527, ,0,No, , ,whole Blood,No,No
+GSM1868175.soft,0.0829,Female,15,No,10,18.21671873,No,29, ,24.12623532,5,0.08806,41,0.01947, ,91,0.0583,43, , ,0,African American,0.76116,7, ,Yes, , ,whole Blood,No,No
+GSM1868340.soft,0.00847,Female,8,Yes,5,31.37647507,No,27,10,24.1918266,3,0.11263,27,0.13079,5,44,0.1038,32,12,0,0.10085,African American,0.56495,5,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868220.soft,0.02843,Female,10,No,6, ,No,57,0,52.13680452,4,0.09245,25,0.06179,0,29,0.1577,13,0,0,0.01386,African American,0.67068,2,0,No, , ,whole Blood,No,No
+GSM1868336.soft,0.08483,Male,14,No,9,38.23226491,No,50,10,50.50544141,5,0.11513,12,0.12671,0,35,0.33701,8,0,0,0.06677,African American,0.30001,7,0,No, , ,whole Blood,No,No
+GSM1868282.soft,0.0807,Female,14,No,9,38.10363717,Yes,55,0,50.5973987,5,0.06942,20,0.08356,0,81,0.23979,9,0,0,0.08049,African American,0.469,8,0,Yes, , ,whole Blood,No,Yes
+GSM1946553.soft,0.0652,Female,21,Yes,13,34.80270299,Yes,46,--,53.7812,8,0.0832,35,0.024,--,64,0.1545,42,--,--,0.1554,Caucasian,0.5488,6,--,Yes, , ,whole Blood,No,Yes
+GSM1868115.soft,0.07034,Female, ,No, , ,No,30, ,29.08081025,2,0.0922,1,0.04055, ,29,0.23891,5, , ,0.06026,African American,0.50233, , ,No, , ,whole Blood,No,No
+GSM1868170.soft,0.04788,Male,10,No,7,28.36194699,No,58,7,56.04211544,3,0.09308,3,0.08286,8,31,0.22726,3,0,0,0.01702,African American,0.54859,2,0,No, , ,whole Blood,No,No
+GSM1868370.soft,0.06491,Male,10,No,7,32.4226534,No,56, ,50.11118117,3,0.05417,9,0.15829, ,60,0.21887,2, , ,0.02948,African American,0.50821, , ,Yes, , ,whole Blood,No,No
+GSM1868376.soft,0.12295,Male,12,No,7,26.08486372,No,45, ,46.52588434,5,0.11615,17,0.08517, ,46,0.15456, , , ,0.0152,African American,0.51325,8, ,No, , ,whole Blood,No,No
+GSM1868280.soft,0.04325,Female,14,No,11,37.41703072,No,26,0,32.75740363,3,0.10535,10,0.10628,7,65,0.17259,18,0,0,0.08308,African American,0.49129,6,0,Yes, , ,whole Blood,No,No
+GSM1868191.soft,0.07486,Male,7, ,4,32.00908818, ,43,8,48.38403717,3,0.11052,31,0.13809,0,87,0,16,0,0,0.20209,African American,0.49105,6,0,Yes, , ,whole Blood,No, 
+GSM1946542.soft,0.0205,Male,19,Yes,13,23.26975227,No,30,--,24.452,6,0.0895,44,0.0601,--,100,0.1265,27,--,--,0.0676,Caucasian,0.6611,13,--,Yes, , ,whole Blood,No,Yes
+GSM1868120.soft,0.05953,Female,19,Yes,12, ,No,36, ,44.94514781,7,0.082,13,0.05812, ,68,0.25607,19, , ,0.0695,African American,0.48652,9, ,Yes, , ,whole Blood,Yes,Yes
+GSM1868092.soft,0.08326,Female, ,Yes, ,27.421875,Yes,49, ,46.26552227,5,0.08776,42,0.07125, ,45,0.13659,40, , ,0.07927,African American,0.56817, , ,No, , ,whole Blood,No,Yes
+GSM1868325.soft,0.18987,Male,15,No,10,24.24154449,No,41,0,49.61720533,5,0.1124,20,0.09014,0,44,0.07924,10,0,0,0.34046,African American,0.20818,8,0,Yes, , ,whole Blood,No,No
+GSM1868232.soft,0.06545,Female,11,Yes,10,36.63434622,No,54,5,47.53611378,1,0.04803,0,0.09582,7,29,0.24301,9,0,0,0.0328,African American,0.5303,6,0,No, , ,whole Blood,No,Yes
+GSM1868244.soft,0.02239,Female,7,No,6,28.06244261,No,50,0,50.68753018,1,0.10106,8,0.07229,0,37,0.13857,2,0,0,0,African American,0.68831,0,0,No, , ,whole Blood,No,No
+GSM1868102.soft,0.07185,Female, ,No, ,28.06485629,No,25,0,21.83328604,4,0.07179,5,0.13134,7,41,0.22815,5,0,0,0.06957,African American,0.43785, ,0,No, , ,whole Blood,No,No
+GSM1868423.soft,0.00464,Female,13,No,8,28.25486751,No,43,0,50.51490139,5,0.05851,2,0.0779,0,32,0.43011,19,0,0,0.09246,African American,0.35656,7,0,No, , ,whole Blood,No,No
+GSM1946530.soft,0.095,Female,--,--,--,25.62935471,No,51,0,50.6797,--,0.0873,--,0.0275,7,49,0.1863,8,3,0,0.005,Caucasian,0.6151,--,9,No, , ,whole Blood,--,Yes
+GSM1868341.soft,0.03463,Female,19,No,13,33.28719723,No,54,0,49.38533012,6,0.06744,22,0.07335,0,76,0.29409,19,0,0,0.02245,African American,0.52978,12,0,Yes, , ,whole Blood,No,No
+GSM1868384.soft,0.06877,Female, , , ,35.80108792,No,48,0,40.82990608, ,0.07113,10,0.11074,0,28,0.21607,17,0,0,0.12492,African American,0.44553, ,0,No, , ,whole Blood, ,Yes
+GSM1868158.soft,0.11391,Female,11,No,6,34.48275862,No,41, ,38.23465397,5,0.08803,25,0.05872, ,28,0.2103, , , ,0.05667,African American,0.49214,4, ,No, , ,whole Blood,No,Yes
+GSM1868138.soft,0.08647,Female,5,No,3,38.72084548,No,38,0,39.60724971,2,0.11193,0,0.02213,0,29,0.14994,3,0,0,0.05496,African American,0.5924,1,0,No, , ,whole Blood,No,Yes
+GSM1868223.soft,0.07119,Female,4,No,3,42.5937871,No,42,7,42.00811661,1,0.08346,12,0.04861,0,25,0.26596,5,0,0,0.02699,African American,0.52637,2,0,No, , ,whole Blood,No,Yes
+GSM1868208.soft,0.0597,Male,17,No,11, ,No,28, ,31.37558799,6,0.04365,27,0.0817, ,68,0.20156,19, , ,0.0948,African American,0.55301,12, ,Yes, , ,whole Blood,No,No
+GSM1868103.soft,0.06156,Female, , , ,26.02014463,No,28,0,31.34330667, ,0.06266,27,0.02609,0,37,0.24929,24,0,0,0.04736,African American,0.55063, ,0,Yes, , ,whole Blood, ,No
+GSM1868211.soft,0.1092,Male,11,No,8,29.86055123,No,29,6,38.7769137,3,0.13663,12,0.04174,8,34,0.08323,14,10,0,0.10205,African American,0.52607,6,0,No, , ,whole Blood,No,No
+GSM1868279.soft,0.02617,Female,13,No,9,44.89253273,No,23,0,27.78763807,4,0.09564,15,0.06018,0,50,0.15213,30,0,0,0.06573,African American,0.60768,3,0,No, , ,whole Blood,No,Yes
+GSM1868374.soft,0.09899,Male,6,No,5,28.68562417,No,18, ,16.22710477,1,0.11112,0,0.0499, ,26,0.07801,5, , ,0.05156,African American,0.62298, , ,No, , ,whole Blood,No,No
+GSM1868100.soft,0.04262,Female,8,No,6,25.89919528,No,19,7,21.6239277,2,0.10165,4,0.04316,0,29,0.22676,4,0,0,0.09628,African American,0.48917,3,0,Yes, , ,whole Blood,No,No
+GSM1868107.soft,0.03696,Female, ,No, ,28.9548465,No,18, ,14.99235054, ,0.09522, ,0.02177, , ,0.09799, , , ,0.04315,African American,0.70113, , , , , ,whole Blood,No,No
+GSM1868067.soft,0.03003,Female,21,Yes,14,37.6880132,No,38, ,32.49850293,7,0.09866,24,0.08376, ,102,0.21644,50, , ,0.04704,African American,0.54146,9, ,Yes, , ,whole Blood,Yes,Yes
+GSM1868404.soft,0.14435,Female,11,No,8,22.60559191,No,21,0,17.97777922,3,0.06868,16,0.11487,0,44,0.216,26,0,0,0.09886,African American,0.37288,7,0,No, , ,whole Blood,No,No
+GSM1868243.soft,0.07319,Female,11,No,7,37.4391675,No,23,9,18.48487795,4,0.10557,17,0.07973,0,72,0.17263,23,0,0,0.06843,African American,0.51783,8,0,Yes, , ,whole Blood,No,No
+GSM1868323.soft,0.05893,Female,9,No,6,36.13141566,No,50, ,48.74715161,3,0.07001,9,0.07154, ,28,0.2538,22, , ,0.02338,African American,0.5171,3, ,No, , ,whole Blood,No,No
+GSM1868037.soft,0.04186,Female, ,No, ,41.59308054,No,20, ,20.49117307,2,0.09622,0,0.06591, ,26,0.11279, , , ,0.08405,African American,0.63266, , ,No, , ,whole Blood,No,No
+GSM1868108.soft,0.14549,Female,13,No,8,35.12396694,No,21, ,18.87817754,5,0.06104,9,0.05703, ,31,0.2399,5, , ,0.20754,African American,0.28875, , ,No, , ,whole Blood,No,No
+GSM1868301.soft,0.06322,Female,9,No,5,54.6930281,No,50,8,60.498803,4,0.08056,0,0.08136,0,25,0.12383,6,0,0,0.22154,African American,0.44664,4,0,No, , ,whole Blood,No,No
+GSM1868377.soft,0.0211,Female, ,No, ,34.97180716,No,29, ,26.64987564,4,0.15614,0,0.04836, ,25,0.15318, , , ,0.01783,African American,0.60915, , ,No, , ,whole Blood,No,No
+GSM1868421.soft,0.13049,Female,4,No,1,21.75546853,No,20,0,23.1147898,3,0.06602,9,0.03821,0,27,0.21625,8,0,0,0.09776,African American,0.46099,4,0,No, , ,whole Blood,No,No
+GSM1868320.soft,0.13467,Female,14,No,8,41.54833384,No,54,0,57.52458369,6,0.09544,23,0.13617,9,48,0.15026,11,0,0,0.095,African American,0.40615,4,0,Yes, , ,whole Blood,No,No
+GSM1868389.soft,0.09539,Female,7,No,4,29.03178981,No,40, ,45.65012545,3,0.06764,0,0.05447, ,26,0.12568,13, , ,0.15865,African American,0.52895,2, ,No, , ,whole Blood,No,No
+GSM1868319.soft,0.07198,Female,12,No,8,38.96804734,No,50, ,56.80191759,4,0.13635,10,0.10544, ,27,0.21784, , , ,0.01683,African American,0.47707,3, ,No, , ,whole Blood,No,No
+GSM1868237.soft,0.08552,Male, ,No, ,31.02799914,No,44,7,42.56937613,1,0.05624,14,0.06805,0,27,0.28911,12,0, ,0.01901,African American,0.49534, ,0,No, , ,whole Blood,No,No
+GSM1868305.soft,0.03548,Female, , , ,26.59627786,No,29,0,25.65333062, ,0.05753,21,0.09008,0,32,0.19707,11,0,0,0.03239,African American,0.60074, ,0,No, , ,whole Blood, ,No
+GSM1868252.soft,0.13487,Male,13,No,11,32.59122465,No,45,0,63.94398592,2,0.07859,8,0.11293,0,29,0.06385,11,0,0,0.235,African American,0.37127,8,0,No, , ,whole Blood,Yes,Yes
+GSM1868086.soft,0.02186,Female,11,No,6,31.29167949,No,48,0,44.33123975,5,0.10037,0,0.06907,2,30,0.29057,6,0,0,0.06587,African American,0.45809,3,0,No, , ,whole Blood,No,No
+GSM1868288.soft,0.04721,Female,14,No,10, ,No,41,6,31.5626106,4,0.09356,8,0.08695,10,52,0.16808,13,0,0,0.0211,African American,0.59107,4,0,Yes, , ,whole Blood,No,No
+GSM1868185.soft,0.08814,Male, ,Yes, ,21.36849688,Yes,60,8,67.21049267,1,0.06993,21,0.08751,0,39,0.14281,39,0,0,0.10104,African American,0.5336, ,0,Yes, , ,whole Blood, ,Yes
+GSM1868187.soft,0.08456,Female,18,Yes,14,47.16297714,Yes,50, ,38.36846554,4,0.06156,25,0.04391, ,40,0.17147,39, , ,0.05287,African American,0.61011,9, ,No, , ,whole Blood,No,Yes
+GSM1868426.soft,0.04156,Female,15,No,10,37.60462208,No,54, ,52.26214821,5,0.0781,36,0.11106, ,54,0.33323,27, , ,0.01544,African American,0.44188,12, ,Yes, , ,whole Blood,No,No
+GSM1868309.soft,0.06156,Male,8,No,5,24.01859504,No,32,6,34.87417551,3,0.08857,15,0.07214,8,60,0.16749, ,10,3,0.13179,African American,0.51034,9,0,Yes, , ,whole Blood,No,Yes
+GSM1868121.soft,0.01507,Male, ,Yes, ,28.90058035,No,47, ,40.72649167,4,0.09783,20,0.0494, ,54,0.24036,30, , ,0,African American,0.61143, , ,Yes, , ,whole Blood,Yes,Yes
+GSM1868337.soft,0.05915,Female,7,No,4,33.84874219,No,57,8,49.20200699,3,0.05637,10,0.05593,0,28,0.27193,6,0,0,0.03967,African American,0.53315,2,0,No, , ,whole Blood,No,No
+GSM1868405.soft,0.059,Male, , , ,41.81429347,No,46,8,46.02919425, ,0.1401,15,0.05665,4,29,0.16819,5,0,0,0.0355,African American,0.56679, ,0,No, , ,whole Blood, ,No
+GSM1868257.soft,0.08684,Female,10,No,9,32.10875751,No,24,0,21.86509733,1,0.03112,0,0.12402,6,29,0.31337,3,0,0,0.0844,African American,0.36927,5,0,No, , ,whole Blood,No,No
+GSM1868398.soft,0.02462,Male,10,No,8, ,No,52,0,52.22877924,2,0.12894,0,0.0414,6,27,0.13866,0,0,0,0.10946,African American,0.58084,1,0,No, , ,whole Blood,No,No
+GSM1868071.soft,0.03367,Female, ,No, ,35.0988842,No,23,8,20.39862958,5,0.12293,9,0.04033,0,34,0.147,12,11,0,0.0384,African American,0.62248, ,0,Yes, , ,whole Blood,No,No
+GSM1868250.soft,0.14999,Female,11,No,6,28.91256276,No,54,0,52.45370783,5,0.07667,15,0.06623,0,37,0.16396,20,0,0,0.09747,African American,0.45488,3,0,Yes, , ,whole Blood,No,No
+GSM1868292.soft,0.08434,Female,8,No,5,36.92695309,No,25,0,30.62760087,3,0.07459,0,0.06507,0,39,0.1134,1,0,0,0.03885,African American,0.63389,5,0,Yes, , ,whole Blood,No,No
+GSM1946531.soft,0.0582,Female,17,No,10,54.96683968,No,31,--,28.9634,7,0.0785,26,0.0823,--,62,0.1916,25,--,--,0.069,Mixed,0.5531,7,--,Yes, , ,whole Blood,No,Yes
+GSM1868239.soft,0.11678,Female,9,No,6,36.25740027,No,49,5,44.32650339,3,0.07545,3,0.11534,6,25,0.26986,11,5,0,0.09235,African American,0.33219,5,0,No, , ,whole Blood,No,No
+GSM1868085.soft,0.086,Female,13,Yes,10,20.48969582,No,32,5,27.08173545,3,0.08412,44,0.03195,0,119,0.26846,37,3,0,0.03981,African American,0.49252,10,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868415.soft,0.0443,Female, , , ,35.87894111,No,44,6,37.59506893, ,0.08667,26,0.09406,8,39,0.15162,22,8,0,0,African American,0.64212, ,0,No, , ,whole Blood, ,No
+GSM1868089.soft,0.01229,Female,9,No,6,22.026238,No,25, ,21.84558415,3,0.10322,39,0.08607, ,102,0.20503,25, , ,0.13363,African American,0.47886,5, ,Yes, , ,whole Blood,No,No
+GSM1868272.soft,0.02488,Female,6,No,4,39.63785415,No,33,0,27.2748866,2,0.06441,0,0.07082,0,29,0.2817,28,0,0,0.0774,African American,0.49441,4,0,No, , ,whole Blood,No,No
+GSM1868428.soft, , , , , , , , , , , , , , , , , , , , , , , , , , ,dsRNase-treated (RNase V1),HEK293T, , , 
+GSM1868238.soft,0.11593,Female,8,No,7,46.04486423,No,30,0,34.77178112,1,0.05524,8,0.08148,0,56,0.20492,18,0,0,0.03875,African American,0.51855,3,0,Yes, , ,whole Blood,No,Yes
+GSM1868124.soft,0.0351,Male,8,Yes,6,28.59049487,No,41, ,39.53522673,2,0.0638, ,0.03188, ,43,0.28236, , , ,0.11824,African American,0.48585,4, ,Yes, , ,whole Blood,No,Yes
+GSM1868173.soft,0.2993,Female,7,No,6,25.93487873,No,30, ,37.27432306,1,0.0448,34,0.14629, ,68,0.01951,38, , ,0.17752,African American,0.34295,4, ,Yes, , ,whole Blood,No,No
+GSM1868418.soft,0.06125,Female, , , , ,No,38,0,39.27936249, ,0.08008,0,0.04853,0,51,0.16946,13,0,0,0.0641,African American,0.58941, ,0,Yes, , ,whole Blood,No,No
+GSM1868222.soft,0.11689,Female,12,Yes,8,37.1425181,No,58,0,57.15508895,4,0.13298,28,0.05756,0,38,0.22982,13,0,0,0.01097,African American,0.45747,6,0,Yes, , ,whole Blood,No,No
+GSM1868425.soft,0.01646,Female,11,No,6, ,No,21, ,21.31763489,5,0.07589,40,0.08607, ,51,0.21905,31, , ,0.10916,African American,0.51201,8, ,Yes, , ,whole Blood,No,No
+GSM1868277.soft,0.01784,Male,13,No,9,21.79473983,No,47, ,53.40404768,4,0.15527,5,0.04594, ,27,0.20872, , , ,0.07806,African American,0.51793,4, ,No, , ,whole Blood,No,No
+GSM1868146.soft,0.15647,Male,7,No,6,29.44996256,No,60, ,57.93311289,1,0.10413,0,0.05158, ,29,0.15176,0, , ,0.01938,African American,0.53353,2, ,No, , ,whole Blood,No,No
+GSM1868162.soft,0.04253,Female,12,No,8,28.156956,No,60,0,61.17657364,4,0.09521,0,0.07449,0,25,0.16324,2,0,0,0.10093,African American,0.52738,3,0,No, , ,whole Blood,No,No
+GSM1868183.soft,0.10736,Male,8,No,7,38.70327578,No,43, ,36.95705597,1,0.0643,6,0.04097, ,56,0.18971,8, , ,0.03335,African American,0.57764,4, ,Yes, , ,whole Blood,No,No
+GSM1868273.soft,0.09933,Female,17,No,11,41.52612756,No,43, ,43.53191136,6,0.07781,38,0.14039, ,62,0.23927,21, , ,0.07232,African American,0.39441,10, ,Yes, , ,whole Blood,No,Yes
+GSM1868253.soft,0.06203,Female,17,No,10,29.68852687,No,47,0,41.77020291,7,0.09971,25,0.04894,2, ,0.12378,8,0,0,0.03536,African American,0.64616,10,0,Yes, , ,whole Blood,No,Yes
+GSM1868407.soft,0.02276,Female, , , ,40.89348405,No,41, ,35.06778008, ,0.0774,43,0.06543, ,69,0.17631,20, , ,0.04525,African American,0.6405, , ,Yes, , ,whole Blood, ,Yes
+GSM1868149.soft,0.0974,Female,12,No,7,33.77426233,No,59,0,53.79917081,5,0.07418,1,0.0386,0,49,0.17248, ,0,0,0.08223,African American,0.55025,5,0,Yes, , ,whole Blood,No,No
+GSM1868077.soft,0.05928,Female, , , ,52.43867034,No,47,0,39.42288057, ,0.04973,4,0.19836,4,27,0.25034,10,0,0,0.0396,African American,0.41458, ,0,No, , ,whole Blood, ,Yes
+GSM1868209.soft,0.02581,Female,19,No,14,25.92851384,No,48,7,41.09056112,5,0.09026,31,0.04359,7,54,0.06006,37,8,0,0.03944,African American,0.75573,6,0,Yes, , ,whole Blood,No,No
+GSM1868413.soft,0.02729,Female,14,No,10,37.03964161,Yes,56, ,51.87849769,4,0.08457,17,0.13095, ,25,0.16926,12, , ,0.06059,African American,0.55232,4, ,No, , ,whole Blood,No,Yes
+GSM1868200.soft,0.1181,Male,15, ,9,40.63543585,No,52,8,56.07432741,6,0.07665,27,0.09954,0,37,0.2629,31,0,0,0.13108,African American,0.33921,5,0,Yes, , ,whole Blood,No,Yes
+GSM1868110.soft,0.17433,Male,12,No,8,26.69753086,No,30, ,43.58838703,4,0.09621,24,0.0503, ,75,0.07034, , , ,0.18373,African American,0.43848,9, ,Yes, , ,whole Blood,No,No
+GSM1946532.soft,0.0314,Female,--,--,--,--,No,37,6,36.565,--,0.062,36,0.0276,0,74,0.1122,31,0,0,0.037,Mixed,0.7423,--,0,Yes, , ,whole Blood,--,Yes
+GSM1946547.soft,0.0885,Female,11,No,9,18.93021538,No,54,9,47.9266,2,0.088,30,0.0286,0,58,0.1636,13,0,0,0.0743,Caucasian,0.5839,8,0,No, , ,whole Blood,No,No
+GSM1868096.soft,0.03418,Female,8,No,7,20.64577562,No,59,8,49.04714034,1,0.06036,5,0.06981,0,45,0.17161,6,0,0,0.00498,African American,0.67955,3,0,Yes, , ,whole Blood,No,No
+GSM1868417.soft,0.04152,Female, , , ,19.97195718,No,51,7,48.04020198, ,0.17596,23,0.09295,7,25,0.14747,11,0,0,0.05067,African American,0.52964, ,5,No, , ,whole Blood, ,No
+GSM1868094.soft,0.0315,Male, , , ,22.14034613,No,22,9,22.63252875, ,0.0616,28,0.04836,7,41,0.24386,23,8,0,0.09684,African American,0.52497, ,3,No, , ,whole Blood, ,No
+GSM1868408.soft,0.07135,Male, , , ,29.2358582,Yes,50,0,45.40966972, ,0.10227,34,0.08467,0,56,0.15123,27,0,0,0.08957,African American,0.53785, ,0,Yes, , ,whole Blood, ,Yes
+GSM1868347.soft,0.0772,Female,17,Yes,11,40.41019757,No,33,0,34.40821952,6,0.05341,8,0.07232,0,52,0.17201,26,0,0,0.05479,African American,0.59524,9,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868125.soft,0.00367,Male,13,No,9,41.66440113,No,36,9,38.46179293,4,0.1023,27,0.05789,0,27,0.20429,40,0,0,0.06166,African American,0.5866,5,10,No, , ,whole Blood,No,No
+GSM1868349.soft,0.06388,Female, ,No, ,43.18880674,No,50, ,49.16168478, ,0.11478, ,0.04668, , ,0.08538, , , ,0.02587,African American,0.68785, , , , , ,whole Blood,No,Yes
+GSM1868105.soft,0.06081,Female, , , ,38.02768166,Yes,27,5,24.77369145, ,0.08518,35,0.06034,0,108,0.19889,42,11,0,0.04739,African American,0.54805, ,0,Yes, , ,whole Blood, ,Yes
+GSM1868156.soft,0.06164,Female, ,No,10,44.30204501,No,36,0,34.4094777, ,0.09416, ,0.07441,0,41,0.18436, ,0,0,0.07136,African American,0.52092, ,0,Yes, , ,whole Blood,No,Yes
+GSM1946544.soft,0.0902,Male,--,Yes,--,31.6084911,No,54,4,47.3157,4,0.1265,25,0.0586,0,49,0.146,16,0,0,0.0065,Caucasian,0.5976,--,0,Yes, , ,whole Blood,No,No
+GSM1868380.soft,0.12323,Female,9,No,5,34.02627245,No,31, ,32.30546611,4,0.06721,20,0.02897, ,29,0.02569, , , ,0.18102,African American,0.58396,5, ,No, , ,whole Blood,No,No
+GSM1868261.soft,0.01481,Female,10,No,6,28.41392833,No,27,0,28.62451229,4,0.09136,5,0.08634,0,28,0.09395,10,0,0,0.03154,African American,0.68955,5,0,No, , ,whole Blood,No,No
+GSM1868382.soft,0.04372,Female,12,No,9,40.50932287,No,38,0,33.12291978,3,0.1209,5,0.06106,4,35,0.13642, ,0,0,0.05974,African American,0.59879,4,0,No, , ,whole Blood,No,Yes
+GSM1868087.soft,0.03594,Female,10,Yes,7,31.05098855,No,58,5,45.13734905,3,0.06496, ,0.04841,3,42,0.26409, ,0,0,0.09921,African American,0.49533,3,0,No, , ,whole Blood,No,Yes
+GSM1868142.soft,0.07139,Male,12,No,8,19.17205396,Yes,55, ,52.51557226,4,0.05236,14,0.0257, ,37,0.14804,19, , ,0,African American,0.71425,4, ,No, , ,whole Blood,No,No
+GSM1868230.soft,0.07864,Female,8,No,4,21.76485353,No,20,0,17.41291332,4,0.10507,31,0.03654,5,51,0.04809,23,0,0,0.02434,African American,0.71136,6,0,Yes, , ,whole Blood,No,No
+GSM1868266.soft,0.05641,Female,16,No,12, ,No,41,8,50.74367333,4,0.06236,0,0.08455,0,30,0.25228,6,0,0,0.05531,African American,0.51029,2,0,No, , ,whole Blood,No,No
+GSM1868180.soft,0.04887,Female, ,No,5,41.02733725,No,21, ,21.43919739, ,0.1213,7,0.07886, ,28,0.1348,4, , ,0.06657,African American,0.57398,6, ,No, , ,whole Blood,No,No
+GSM1868367.soft,0.05889,Female, , , , ,No,52,9,48.61452044, ,0.1074,6,0.11083,0,41,0.27712,9,0,0,0.15022,African American,0.31319, ,0,Yes, , ,whole Blood, ,Yes
+GSM1868099.soft,0.06788,Male,15,No,8,33.03683133,No,46,0,57.68018033,7,0.09832,2,0.08949,6,37,0.19038,16,0,0,0.07468,African American,0.49103,5,0,Yes, , ,whole Blood,No,No
+GSM1868126.soft,0.05128,Female,19,No,13,22.12973973,No,35,2,33.94908153,6,0.10423,38,0.03028,0,56,0.1694,22,0,0,0.05419,African American,0.59505,9,0,Yes, , ,whole Blood,No,Yes
+GSM1946550.soft,0.05,Female,10,No,8,28.69680879,Yes,57,0,57.619,2,0.0824,8,0.0222,6,51,0.1164,3,0,0,0.0252,Caucasian,0.7224,4,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868082.soft,0.07098,Female,3,No,2, ,No,20,4,23.42870248,1,0.07551,4,0.07579,0,25,0.13543,1,0,0,0.09579,African American,0.5587,1,0,No, , ,whole Blood,No,No
+GSM1868141.soft,0.0504,Female,17,No,13,34.11242897,No,54, ,50.92146809,4,0.07036,0,0.10569, ,26,0.26108,4, , ,0.03525,African American,0.48745,7, ,No, , ,whole Blood,No,No
+GSM1868297.soft,0.0915,Female, ,No, ,33.27346939,No,18,3,17.15663888, ,0.11355,10,0.07632,2,32,0.18093,11,4,0,0.06527,African American,0.47502, ,0,No, , ,whole Blood,No,No
+GSM1868381.soft,0.05837,Female,15,No,11,31.47858246,No,45,0,43.22839103,4,0.06718,21,0.05396,0,35,0.26117,17,0,0,0.05437,African American,0.51691,2,0,No, , ,whole Blood,No,Yes
+GSM1868137.soft,0.08799,Male,7,No,5,28.81306524,No,21,0,15.13303585,2,0.09194,11,0.06926,9,27,0.21681,9,0,0,0.07766,African American,0.4614,2,0,No, , ,whole Blood,No,Yes
+GSM1868135.soft,0.04953,Male,10, ,7,40.86076231, ,36, ,33.3129706,3,0.12975,8,0.073, ,50,0.12754, , , ,0,African American,0.62748, , ,Yes, , ,whole Blood,No,Yes
+GSM1868360.soft,0.12611,Female, ,No, ,21.05868037,No,20,0,29.70293859,2,0.07785,0,0.04518,0,44,0.06324,1,0,0,0.05456,African American,0.65278, ,0,Yes, , ,whole Blood,Yes,No
+GSM1868198.soft,0.05004,Female,14,No,9,24.11764706,No,46,0,49.86737133,5,0.08178,9,0.04543,6,27,0.09781,1,0,0,0,African American,0.7267,1,0,No, , ,whole Blood,No,No
+GSM1868091.soft,0,Female,14,No,9,42.54027294,No,50, ,55.99388985,5,0.09707,18,0.06636, ,55,0.1193,26, , ,0.05333,African American,0.68202,1, ,Yes, , ,whole Blood,No,Yes
+GSM1868403.soft,0.12235,Female,12,Yes,7,36.45692682,Yes,51,9,46.1551526,5,0.04929,46,0.21091,0,64,0.25166,34,0,0,0.00454,African American,0.37121,8,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868375.soft,0.08757,Female,17,Yes,12,31.83417349,No,39, ,38.12250325,5,0.05355,45,0.10777, ,67,0.14004,47, , ,0.06593,African American,0.56423,5, ,No, , ,whole Blood,No,Yes
+GSM1868036.soft,0.0375,Female, ,No, ,33.99151989,No,48, ,54.00823574,3,0.08081,0,0.06114, ,40,0.25506,5, , ,0.07129,African American,0.51506,5, ,No, , ,whole Blood,No,No
+GSM1868054.soft,0.08127,Female,7,No,6,48.85356489,No,44, ,38.84979891,1,0.10229,5,0.04247, ,38,0.15104,14, , ,0.0169,African American,0.64318,3, ,No, , ,whole Blood,No,No
+GSM1868192.soft,0.02197,Male,7,No,4,48.94917973,No,44,0,49.45119455,3,0.05812,7,0.0514,0,33,0.20247,24,0,0,0.06202,African American,0.62123,4,0,No, , ,whole Blood,No,No
+GSM1868047.soft,0.13044,Male,12,No,8,34.08640507,No,63,0,59.47737751,4,0.1069,21,0.08879,0,49,0.15902,25,0,0,0,African American,0.5524,3,0,No, , ,whole Blood,No,No
+GSM1868203.soft,0.13417,Male,9,No,6,24.0941294,No,42,0,43.17586587,3,0.12982,13,0.05807,0,38,0.19556,19,0,0,0.06791,African American,0.45101,3,0,No, , ,whole Blood,No,No
+GSM1868371.soft,0.0558,Female,14,No,9,22.82426459,No,46, ,44.46784153,5,0.0855,0,0.1119, ,63,0.11232,21, , ,0.17236,African American,0.49176,15, ,Yes, , ,whole Blood,No,No
+GSM1946528.soft,0.088,Female,19,Yes,14,26.89575592,Yes,44,--,45.8481,5,0.0721,11,0.0425,--,37.25,0.2333,29,--,--,0.046,Caucasian,0.5318,7,--,No, , ,whole Blood,No,Yes
+GSM1868151.soft,0.02132,Male,8,No,6,20.07011704,No,65,5,62.09773821,2,0.13538,0,0.01041,5,25,0.12195,6,0,0,0,African American,0.71376,1,0,No, , ,whole Blood,No,No
+GSM1868160.soft,0.11948,Female,3,No,2,45.14405548,No,36, ,40.35541264,1,0.06348,17,0.11985, ,39,0.2113,33, , ,0.04315,African American,0.44598,2, ,Yes, , ,whole Blood,No,No
+GSM1868286.soft,0.08136,Female,13,No,8,33.92885755,No,32,0,35.037772,5,0.05577,8,0.09392,0,29,0.18577,4,0,0,0.16643,African American,0.44645,5,0,No, , ,whole Blood,No,No
+GSM1868343.soft,0.08528,Male,14,No,10,22.6612643,No,46, ,50.94732487,4,0.13029,2,0.06, ,44,0.21777,6, , ,0.02709,African American,0.50838,6, ,Yes, , ,whole Blood,No,No
+GSM1868307.soft,0.05244,Female, , , ,49.53513184,No,59,0,58.24826997, ,0.06685,8,0.05755,0,36,0.21096,19,0,0,0.05443,African American,0.58475, ,0,No, , ,whole Blood, ,No
+GSM1868353.soft,0.04717,Female,8,No,6,28.6829525,No,70, ,63.20204239,2,0.06712,9,0.06346, ,33,0.16631,38, , ,0.06956,African American,0.60705,1, ,No, , ,whole Blood,No,Yes
+GSM1868298.soft,0.1459,Female,11,No,8,38.36734694,No,47,0,44.6188013,3,0.09939,21,0.07405,2,81,0.21988,0,0,0,0.05351,African American,0.42481,2,0,Yes, , ,whole Blood,No,Yes
+GSM1868271.soft,0.04284,Female,9,Yes,6,40.56374376,No,43,0,37.59156548,3,0.05654,8,0.07228,5,30,0.24501,20,0,0,0.04084,African American,0.55655,5,0,Yes, , ,whole Blood,No,Yes
+GSM1946545.soft,0.0823,Female,16,Yes,11,34.65199286,Yes,43,0,43.9576,5,0.0788,44,0.0535,0,28,0.2301,44,0,0,0.0675,Mixed,0.4934,4,0,No, , ,whole Blood,No,Yes
+GSM1868372.soft,0.0666,Female,14,Yes,12,32.67189229,No,56, ,51.14463623,2,0.08391,22,0.17166, ,59,0.22215,44, , ,0.03052,African American,0.4478,8, ,Yes, , ,whole Blood,No,Yes
+GSM1868179.soft,0.02942,Female, , , ,26.15830479,No,57,6,53.60917388, ,0.09815,31,0.07744,4,40,0.19738,10,0,0,0.00171,African American,0.60027, ,0,Yes, , ,whole Blood, ,No
+GSM1946539.soft,0.1777,Female,10,Yes,6,37.22159379,Yes,26,0,29.5412,4,0.0748,12,0.0672,0,--,0.2746,11,0,0,0.168,Caucasian,0.2487,5,0,--, , ,whole Blood,No,Yes
+GSM1868234.soft,0.15218,Male,8,No,5,32.94564522,No,34,0,37.61973956,3,0.05989,4,0.03439,10,37,0.17705,3,0,0,0.07029,African American,0.52815,6,0,No, , ,whole Blood,No,No
+GSM1868042.soft,0.06938,Female,18,No,12,40.05051805,No,54,0,52.22805063,6,0.08756,11,0.03224,3,46,0.22146,17,7,0,0.09189,African American,0.51219,7,0,Yes, , ,whole Blood,No,No
+GSM1868242.soft,0.06047,Male,11,No,9, ,Yes,48,8,44.60534646,2,0.14178,36,0.05184,0,72,0.16339,44,0,0,0.08151,African American,0.53837,5,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868072.soft,0.07374,Female,11,No,9,40.40282508,No,45,7,48.38856175,2,0.03695,0,0.21369,7,25,0.30686,0,0,0,0.11951,African American,0.3361,4,0,No, , ,whole Blood,No,No
+GSM1868076.soft,0.00851,Female,7,No,3,22.69562272,No,21,0,22.37464472,4,0.06719,0,0.08122,0,25,0.16764,1,0,0,0.17444,African American,0.51209,3,0,No, , ,whole Blood,No,No
+GSM1868299.soft,0.12858,Female,8,No,6,29.49494949,No,62,7,61.10400444,2,0.06454,0,0.06415,7,37,0.13883, ,4,0,0.09083,African American,0.53649,3,0,Yes, , ,whole Blood,No,Yes
+GSM1868346.soft,0.11426,Female,10,Yes,7, ,No,52,0,47.33706374,3,0.07218,19,0.03528,0,59,0.12287,7,0,0,0,African American,0.66415,6,0,Yes, , ,whole Blood,No,Yes
+GSM1868139.soft,0.08987,Female,16,No,11,45.47104079,No,24,10,27.54384717,5,0.06581,29,0.08953,2,72,0.18268,31,9,0,0.0671,African American,0.51564,9,0,Yes, , ,whole Blood,No,No
+GSM1868409.soft,0.28344,Male, ,No, ,22.83275528,No,37,0,51.21071716,7,0.08272,37,0.06514,5,29,0,41,0,0,0.24952,African American,0.36508, ,0,No, , ,whole Blood,No,Yes
+GSM1868259.soft,0.01552,Female,8,No,6,26.38205464,No,19,0,15.01332131,2,0.08208,0,0.13831,0,26,0.21406,8,0,0,0.06969,African American,0.48523,2,0,No, , ,whole Blood,No,No
+GSM1868225.soft,0.04397,Female,5,No,3,54.38049772, ,27,0,24.56722955,2,0.08521,8,0.11876,0,38,0.26643,7,0,0,0.03614,African American,0.46841,3,0,No, , ,whole Blood,No,No
+GSM1868310.soft,0.0235,Female,13,No,8, ,No,23, ,22.94453967,5,0.09846,16,0.05343, ,54,0.1652, , , ,0.06523,African American,0.59958,6, ,Yes, , ,whole Blood,No,Yes
+GSM1868314.soft,0.0697,Female,9,No,6,34.14113702,No,46,8,44.14162703,3,0.08374,9,0.01711,6,63,0.03521,6,0,0,0.1621,African American,0.64584,2,0,Yes, , ,whole Blood,No,Yes
+GSM1868065.soft,0.09192,Female,14,No,10,46.9826939,No,61, ,60.63962953,4,0.08152,16,0.07743, ,32,0.1496,19, , ,0.08079,African American,0.56267, , ,Yes, , ,whole Blood,No,Yes
+GSM1868119.soft,0.08053,Female,10,No,6,29.40503555,No,74, ,69.31305888,4,0.0708,4,0.05575, ,29,0.22468,6, , ,0.00616,African American,0.57927,3, ,No, , ,whole Blood,No,No
+GSM1868378.soft,0.08395,Female,6,No,4,24.75749226,No,57, ,66.11324202,2,0.10553,3,0.12213, ,25,0.0916,3, , ,0.03695,African American,0.59568,2, ,No, , ,whole Blood,No,No
+GSM1868233.soft,0.07587,Female,13,No,11,22.52341826,Yes,48, ,47.49973675,2,0.11282,38,0.12542, ,64.75,0.23319,39, , ,0.03491,African American,0.44831,3, ,Yes, , ,whole Blood,No,Yes
+GSM1868069.soft,0.10187,Female,13,Yes,8,44.96172985,Yes,50, ,49.45661572,5,0.05197,28,0.11603, ,80,0.28303,30, , ,0.06506,African American,0.4188,4, ,Yes, , ,whole Blood,Yes,Yes
+GSM1868090.soft,0.0158,Female,10,No,4,29.72009376,No,34,3,28.71431234,6,0.12788,17,0.03784,0,43,0.14377,16,9,0,0.06469,African American,0.62527,6,0,No, , ,whole Blood,No,Yes
+GSM1868269.soft,0.0705,Female, ,No, ,42.72937746,No,20,8,21.31954868, ,0.10747,10,0.07228,8,32,0.11532,20,8,0,0.03535,African American,0.61383, ,0,No, , ,whole Blood,No,No
+GSM1868195.soft,0.08169,Female,16, ,10,28.86822989, ,55,9,56.81026674,6,0.09389,50,0.08336,6,29,0.17669, ,0,0,0.03654,African American,0.55205,7,0,No, , ,whole Blood, ,No
+GSM1868387.soft,0.11045,Female,12,No,8,31.92800789,No,53, ,53.0414902,4,0.09983,24,0.10325, ,53,0.23833,28, , ,0.09754,African American,0.39592,2, ,Yes, , ,whole Blood,No,Yes
+GSM1868144.soft,0.06232,Female,8,No,5,37.14968665,No,54, ,48.66206948,3,0.07148,0,0.10619, ,25,0.19824,2, , ,0,African American,0.57769, , ,No, , ,whole Blood,No,No
+GSM1868406.soft,0.07724,Female, ,No,13, ,Yes,50,0,54.14875183, ,0.10142,27,0.06835,0,104,0.20348,29,0,0,0.04986,African American,0.51946,8,0,Yes, , ,whole Blood,No,Yes
+GSM1868224.soft,0.05855,Female,16,No,11, ,No,22,0,16.84670964,5,0.14002,2,0.02766,0,29,0.11295,4,0,0,0.16451,African American,0.51252, ,0,No, , ,whole Blood,No,No
+GSM1868335.soft,0.07084,Female,9,No,4,28.42872008,No,54,0,48.33421722,5,0.10906,3,0.05899,11,25,0.13851,7,0,0,0.1054,African American,0.53122,1,0,No, , ,whole Blood,No,No
+GSM1868045.soft,0.08286,Female,11,No,6,37.68316764,No,32,0,29.34132343,5,0.07293,22,0.06468,0,51,0.20618,19,0,0,0.04662,African American,0.55131,5,0,Yes, , ,whole Blood,No,No
+GSM1868097.soft,0.08189,Female, ,No, ,27.72557498,No,77,0,68.55146641,2,0.14326,5,0.0561,0,27,0.22153, ,0,0,0.05572,African American,0.45518,3,0,No, , ,whole Blood,No,No
+GSM1868241.soft,0.06244,Male,13,No,9,26.83854607,No,52,3,53.38273585,4,0.09751,5,0.05744,0,39,0.20186,21,8,0,0.01304,African American,0.58735,2,0,No, , ,whole Blood,No,No
+GSM1868355.soft,0.07873,Female, ,No, ,19.60287931,No,27, ,29.33207487,1,0.07114,24,0.06602, ,67,0.20137,15, , ,0.10052,African American,0.49811, , ,Yes, , ,whole Blood,No,No
+GSM1868321.soft,0.05741,Female,20,No,14,33.35313898,No,50, ,47.25236254,6,0.0998,40,0.04201, ,65,0.18064,18, , ,0.04512,African American,0.58819,8, ,Yes, , ,whole Blood,No,Yes
+GSM1868396.soft,0.03612,Female,5,No,2,42.69970829,No,21, ,23.61417389,3,0.07749,0,0.07118, ,36,0.14208,9, , ,0.09805,African American,0.60225,3, ,No, , ,whole Blood,No,No
+GSM1868088.soft,0.07734,Female, , , ,51.33060989,No,41,9,43.27928988, ,0.13054,46,0.05562,0,54,0.14239,47,0,0,0.03149,African American,0.58225, ,0,Yes, , ,whole Blood, ,No
+GSM1868332.soft,0.06682,Female,13,No,10,29.48245473,No,53,10,50.9643608,3,0.11164,32,0.0672,10,83,0.14317,16,0,0,0.06825,African American,0.57014,8,0,Yes, , ,whole Blood,No,Yes
+GSM1868351.soft,0.10971,Female,10,No,7,36.513565,No,56, ,59.61991485,3,0.0966,2,0.0648, ,82,0.14982, , , ,0.07715,African American,0.52667,5, ,Yes, , ,whole Blood,No,No
+GSM1868079.soft,0.31489,Female, , , ,40.06396768,No,58,5,69.31551273, ,0.06642,31,0.05431,4,76,0.12695,12,0,0,0.18101,African American,0.27899, ,0,Yes, , ,whole Blood, ,Yes
+GSM1946534.soft,0.0285,Male,--,--,--,37.80850183,No,38,9,36.8664,--,0.0783,20,0.0592,0,68,0.1401,28,0,0,0.034,Caucasian,0.675,--,0,Yes, , ,whole Blood,--,Yes
+GSM1946549.soft,0.0775,Female,11,No,7,--,No,43,3,37.6663,4,0.111,28,0.0427,3,56,0.1709,26,0,0,0.0592,Caucasian,0.5596,6,0,Yes, , ,whole Blood,No,Yes
+GSM1868410.soft,0.03103,Female,12,No,8,34.43877551,No,31,9,24.30777273,4,0.07352,7,0.0858,7,30,0.21829,22,0,5,0.05966,African American,0.56106,3,0,No, , ,whole Blood,No,No
+GSM1868194.soft,0.03839,Female,5,No,3,20.63037637,No,18, ,21.21365744,2,0.09307,0,0.06483, ,35,0.18855,44, , ,0.11689,African American,0.50231,3, ,No, , ,whole Blood,No,No
+GSM1868218.soft,0.05631,Female,17,No,12,31.23241282,No,49,5,47.10863662,5,0.1074,34,0.06484,7,57,0.23659,45,6,0,0.02311,African American,0.52331,7,6,Yes, , ,whole Blood,No,No
+GSM1946548.soft,0.0346,Male,13,Yes,9,27.5395456,No,37,8,34.6375,4,0.0999,8,0.0265,9,32,0.2159,3,4,0,0.0331,Caucasian,0.6058,5,0,No, , ,whole Blood,No,Yes
+GSM1868056.soft,0.05929,Female,8,No,8,42.95600416,No,18,0,15.19189437,0,0.10741,0,0.09114,0,29,0.12484,4,4,0,0.10628,African American,0.53359,5,0,No, , ,whole Blood,No,No
+GSM1868283.soft,0.03966,Male, ,No, ,27.82040816,No,45,0,46.26527489, ,0.03803,4,0.05176,5,28,0.23635,17,0,0,0.00686,African American,0.64378, ,0,No, , ,whole Blood,No,No
+GSM1868356.soft,0.05365,Female,10,No,7,33.62504853,No,25,5,21.37122799,3,0.10771,33,0.08914,6,92,0.18314,21,0,0,0.05654,African American,0.51946,3,0,Yes, , ,whole Blood,No,No
+GSM1868074.soft,0.02375,Female,9,No,6,34.84857091,No,46,5,48.0402158,3,0.0689,0,0.03125,5,25,0.02688,0,0,0,0.01997,African American,0.83428,4,0,No, , ,whole Blood,No,Yes
+GSM1868057.soft,0.06801,Female,11,No,6,39.50195914,No,30,9,18.47242718,5,0.09678,15,0.06994,3,41,0.16215,29,7,0,0.09828,African American,0.53538,6,0,No, , ,whole Blood,No,Yes
+GSM1868401.soft,0.09836,Female,7,No,3,30.24355071,No,61,8,47.75840587,4,0.09243,0,0.10312,0,25,0.20379,5,0,0,0.07594,African American,0.43367,0,0,No, , ,whole Blood,No, 
+GSM1868296.soft,0.05707,Female, ,No, ,33.67817387,No,46,12,42.32520952,3,0.05288,16,0.08254,9,47,0.17699,10,0,0,0.05684,African American,0.59762, ,0,No, , ,whole Blood,No,No
+GSM1868394.soft,0.04828,Male,13,No,9, ,No,44,0,43.39024581,4,0.08442,4,0.03382,0,37,0.19553,9,0,0,0.06669,African American,0.5952,6,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868326.soft,0.07211,Male,3,No,3,39.21568627,No,32,9,34.45233758,0,0.09994,1,0.04095,10,31,0.13647,0,8,0,0.03662,African American,0.63034,2,0,No, , ,whole Blood,No,No
+GSM1868300.soft,0.07434,Female,9,No,8,32.03895937,No,55,6,50.7765465,1,0.08382,26,0.0514,6,81,0.14491,10,0,0,0.085,African American,0.5867,4,0,Yes, , ,whole Blood,No,Yes
+GSM1868369.soft,0.04579,Male,11,No,9,54.55836777,No,52, ,49.51756561,2,0.08764,2,0.08916, ,66,0.11868,3, , ,0.03095,African American,0.65667,2, ,Yes, , ,whole Blood,No,No
+GSM1868050.soft,0.05326,Female,8,No,4,35.85581466,No,43, ,39.36593286,4,0.09243,0,0.06895, ,27,0.22072,6, , ,0.03616,African American,0.53786,5, ,No, , ,whole Blood,No,No
+GSM1946535.soft,0.058,Female,11,Yes,6,31.15014155,Yes,40,--,38.5799,5,0.0562,12,0.0525,--,67,0.1025,24,--,--,0,Caucasian,0.7452,7,--,Yes, , ,whole Blood,No,Yes
+GSM1868049.soft,0.08156,Female, ,No, ,27.33014316,No,20, ,25.69107882,5,0.11577,25,0.12245, ,33,0.16666, , , ,0.10824,African American,0.41819, , ,Yes, , ,whole Blood,No,No
+GSM1868228.soft,0.09889,Female,17,No,14, ,No,45, ,39.62685601,3,0.10737,27.5,0.02883, ,93,0.09253,35, , ,0.00524,African American,0.67325,8, ,Yes, , ,whole Blood,No,No
+GSM1868206.soft,0.11963,Male,14,No,8,20.41653842,No,25,12,28.30939601,6,0.0745,8,0.06912,7,31,0.17411,20,10,0,0.0422,African American,0.54467,5,0,No, , ,whole Blood,No,No
+GSM1868290.soft,0.0407,Female,14,No,10,31.12446531,No,44,5,49.44384805,4,0.09055,12,0.10864,0,93,0.18493,2,0,0,0.13242,African American,0.50344,2,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868327.soft,0.06778,Female,9,No,6,27.79912459,No,54,5,50.7840957,3,0.04408,17,0.11311,0,31,0.36471,19,5,0,0.0517,African American,0.38413, ,0,No, , ,whole Blood,No,Yes
+GSM1868216.soft,0.13716,Female,12,No,8,31.31487889,No,49,6,54.68744842,4,0.09094, ,0.07829,8,90,0.24836, ,0,0,0.13038,African American,0.34153,4,0,Yes, , ,whole Blood,No,Yes
+GSM1868402.soft,0.08915,Female,9,No,6,39.19191919, ,40,12,45.43862557,3,0.11345,19,0.07022,7,74,0.05854,10,0,0,0.09846,African American,0.57892,9,0,Yes, , ,whole Blood,No,Yes
+GSM1868059.soft,0.13847,Male,12,No,9,27.59183673,No,52, ,56.2327125,3,0.07582, ,0.05198, , ,0.16961, , , ,0.11066,African American,0.47717,4, , , , ,whole Blood,No,Yes
+GSM1868215.soft,0.02591,Male,18,No,12,19.65751961,No,52,7,57.3037345,6,0.10914,28,0.02697,5,42,0.18585,27,0,0,0,African American,0.66287,5,0,Yes, , ,whole Blood,No,Yes
+GSM1868188.soft,0.13505,Female,7,No,5,26.03947479,No,23,0,26.15044951,2,0.07701,6,0.13444,4,33,0.16591,11,0,0,0.18318,African American,0.34354,3,0,No, , ,whole Blood,No,No
+GSM1868046.soft,0.13268,Female,13,Yes,11,34.80596697,No,52,3,48.82952994,2,0.09756,8,0.1077,0,30,0.23075,9,0,0,0.15361,African American,0.30977,6,0,No, , ,whole Blood,No,No
+GSM1868207.soft,0.04605,Male,11,No,8,30.21887784,No,50, ,55.35801622,3,0.10591,0,0.11528, ,31,0.19216,4, , ,0.0413,African American,0.5239,6, ,No, , ,whole Blood,No,No
+GSM1868181.soft,0.05984,Female, ,No, ,50.25648916,No,43, ,40.46795774,5,0.0738,15,0.05503, ,29,0.20205,19, , ,0.06407,African American,0.56741, , ,No, , ,whole Blood,No,Yes
+GSM1868315.soft,0.05939,Female,7,No,4,38.58934911,No,31, ,28.01635121,3,0.07423,0,0.0844, ,26,0.18921,5, , ,0.05699,African American,0.56349,3, ,No, , ,whole Blood,No,No
+GSM1868068.soft,0.07151,Male,13,No,10,26.6773376,No,65, ,57.86256265,3,0.06471,3,0.09384, ,27,0.28569,9, , ,0.01021,African American,0.49566,2, ,No, , ,whole Blood,No,Yes
+GSM1868393.soft,0.16292,Male,10,No,8,31.31310547,No,47, ,49.68966788,2,0.079,48,0.04646, ,34,0.2831,40, , ,0.09836,African American,0.35556,9, ,No, , ,whole Blood,No,No
+GSM1868397.soft,0.06327,Female, ,No, , ,No,51, ,46.93074926, ,0.07463,5,0.07193, ,31,0.19023, , , ,0.06207,African American,0.55355, , ,Yes, , ,whole Blood,No,Yes
+GSM1868330.soft,0.12401,Male,9,No,6,24.92252066,Yes,49,0,52.80511391,3,0.08229,43,0.07842,0,35,0.22618,30,0,0,0.05106,African American,0.45825,6,0,No, , ,whole Blood,No,Yes
+GSM1868270.soft,0.11718,Male, ,No, ,20.24616957,No,35,4,35.4529296,3,0.13911,17,0.09479,9,59.25,0.12844,29,0,0,0.04766,African American,0.48702, ,0,Yes, , ,whole Blood,No,No
+GSM1868123.soft,0,Female,6,No,3, ,No,21,0,15.19100066,3,0.12342,0,0.04258,0,25,0.18584,4,0,0,0.06934,African American,0.58277,5,0,No, , ,whole Blood,No,No
+GSM1868333.soft,0.07189,Male,6,No,5,31.29106082,No,20,0,16.98628277,1,0.0848,8,0.09235,3,28,0.20741,2,0,0,0.13878,African American,0.41455,3,0,No, , ,whole Blood,No,No
+GSM1868061.soft,0.06397,Female,11,No,8,57.12892945,No,59, ,52.3639222,3,0.06826,8,0.06413, ,47,0.15215,7, , ,0.00999,African American,0.65555,2, ,Yes, , ,whole Blood,No,No
+GSM1868084.soft,0.14351,Male,9,No,7,24.67973984,No,39,0,43.6405424,2,0.0849,2,0.05195,0,27,0.14368,1,0,0,0,African American,0.5877,6,0,No, , ,whole Blood,No,No
+GSM1868163.soft,0.15314,Male,19,No,14,25.79951626,No,53,6,52.24291909,5,0.0597,34,0.03737,5,85,0.10382,36,9,0,0.00932,African American,0.65175,10,0,Yes, , ,whole Blood,No,No
+GSM1868190.soft,0.09501,Female,12,No,9,38.27125028,No,50,0,50.81717425,3,0.07524,25,0.0641,10,45,0.22286,9,0,0,0.04243,African American,0.53067,5,0,No, , ,whole Blood,No,No
+GSM1868114.soft,0.11308,Female,9,No,6,24.25140459,No,46,0,44.93082518,3,0.0795,0,0.14872,0,32,0.17755,2,0,0,0.08595,African American,0.46668,2,0,Yes, , ,whole Blood,No,No
+GSM1868098.soft,0.10868,Female,8,No,4,24.88851872,No,43, ,47.48832423,4,0.07094,7,0.05106, ,46,0.161,5, , ,0.03591,African American,0.59547,3, ,Yes, , ,whole Blood,No,No
+GSM1868221.soft,0.00799,Female,8,No,5, ,No,52, ,44.94093943,3,0.1419,5,0.03642, ,33,0.05177,2, , ,0.06818,African American,0.70394,3, ,Yes, , ,whole Blood,No,No
+GSM1868058.soft,0.02287,Female,15,Yes,10,37.16069096,Yes,44, ,49.05389863,5,0.08114,33,0.07433, ,68,0.21532,29, , ,0.03922,African American,0.58146,5, ,Yes, , ,whole Blood,No,Yes
+GSM1946543.soft,0.0728,Female,16,No,13,22.76795005,No,50,6,48.723,3,0.1104,0,0.0467,0,25,0.1633,4,0,0,0.0373,Caucasian,0.5938,6,0,No, , ,whole Blood,No,No
+GSM1868147.soft,0.11776,Female, ,No, ,35.95867977,No,39, ,40.39608436,3,0.08014,7,0.03597, ,31,0.17505,5, , ,0.06075,African American,0.54365, , ,No, , ,whole Blood,No,Yes
+GSM1868368.soft,0.09807,Female, , , , ,No,59, ,48.49411853, ,0.12276,27,0.09656, ,49,0.15776,13, , ,0.06356,African American,0.51029, , ,Yes, , ,whole Blood, ,Yes
+GSM1868159.soft,0.07433,Female,9,No,5,27.421875,No,34,0,42.10324293,4,0.11047,6,0.08821,3,25,0.1992,5,0,0,0.06957,African American,0.4782,3,0,No, , ,whole Blood,No,No
+GSM1868247.soft,0.07083,Female,4,No,2,21.37864366,No,40,0,31.98340803,2,0.06435,3,0.03843,0,25,0.22337,3,4,0,0.00779,African American,0.60609,3,0,No, , ,whole Blood,No,No
+GSM1868275.soft,0.02007,Female,13,No,8,40.16654033,No,19,0,15.59635667,5,0.12302,38,0.01888,0,100,0.07401,34,0,0,0.00956,African American,0.75834,12,0,Yes, , ,whole Blood,No,No
+GSM1868197.soft,0.0343,Male,5,No,4,35.87894111,No,50,10,50.72693124,1,0.05894,7,0.18244,0,40,0.25481,6,0,0,0.01594,African American,0.4822,3,0,No, , ,whole Blood,No,No
+GSM1868205.soft,0.24658,Male,8,No,5,31.50790203,No,35, ,39.49148329,3,0.0622,44,0.01991, ,32,0.18076,35, , ,0.0782,African American,0.40619,5, ,No, , ,whole Blood,No,Yes
+GSM1868112.soft,0.04521,Male, ,No, , ,No,28, ,26.36703301,4,0.11608,7,0.05728, ,25,0.17352,11, , ,0.06996,African American,0.5471, , ,No, , ,whole Blood,No,No
+GSM1868317.soft,0.13372,Female,7,No,4,26.51974288,No,22,0,27.1108818,3,0.07874,10,0.07384,0,32,0.10028,7,0,0,0.06291,African American,0.57281,2,0,No, , ,whole Blood,No,No
+GSM1868122.soft,0.16386,Male,21,No,14,24.99586688,No,57, ,53.53000179,7,0.12647,26,0.02337, ,46,0.15814,16, , ,0.06854,African American,0.48078,8, ,No, , ,whole Blood,No,No
+GSM1868240.soft,0.11221,Male,5,No,2,25.50183058,No,19,7,17.43319074,3,0.06189,13,0.07028,0,37,0.2761,15,0,0,0.09958,African American,0.39334,2,0,No, , ,whole Blood,No,No
+GSM1868366.soft,0.10092,Female, , , ,20.76247166,No,41,8,39.62039878, ,0.10428,19,0.09851,0,27,0.2025,24,0,0,0.12333,African American,0.40439, ,0,No, , ,whole Blood, ,Yes
+GSM1868093.soft,0.03209,Female,7,No,3,32.75739645,No,25,0,25.01159864,4,0.07414,24,0.04103,0,55,0.07897,17,0,0,0.03736,African American,0.73555,6,0,Yes, , ,whole Blood,No,No
+GSM1868316.soft,0.14099,Female,9,No,6,34.78231815,No,54,0,45.84653856,3,0.04051,5,0.07098,0,25,0.39964,12,0,0,0.06795,African American,0.30392,0,0,No, , ,whole Blood,No,Yes
+GSM1868055.soft,0.12622,Male, ,No, ,29.73835041,No,46, ,47.60334652,4,0.05839,28,0.18669, ,48,0.24421, , , ,0.13053,African American,0.32787, , ,Yes, , ,whole Blood,No,No
+GSM1868287.soft,0.14042,Female,15,No,11,26.10737884,No,53,0,51.1088243,4,0.08924,30,0.07901,0, ,0.16381,23,0,0,0.06783,African American,0.48162,3,0, , , ,whole Blood,No,No
+GSM1868350.soft,0.04819,Male,12,Yes,9, ,No,36, ,23.1139155,3,0.09571,30,0.04843, ,48,0.09739, , , ,0.01505,African American,0.70921,6, ,Yes, , ,whole Blood,No,No
+GSM1868278.soft,0.08763,Male, ,No, ,20.60940496,No,44,5,49.68060052,6,0.09085,0,0.07167,0,32,0.21501,11,3,0,0.11122,African American,0.47744, ,4,No, , ,whole Blood,No,No
+GSM1868202.soft,0.07897,Male,7,No,4,31.91120361,No,29,9,34.50607627,3,0.1087,19,0.05936,0,47,0.17763,7,0,0,0.07158,African American,0.52387,2,0,No, , ,whole Blood,No,No
+GSM1868155.soft,0.08358,Female,10,No,9,21.44673022,No,51,5,46.72949926,1,0.12188,40,0.02341,8,28,0.13667,14,0,0,0,African American,0.65885, ,0,No, , ,whole Blood,No,No
+GSM1868193.soft,0.05831,Female,11,No,7,39.67132659,Yes,46,10,44.95887295,4,0.13037,33,0.07806,6,89,0.1388,56,0,0,0,African American,0.59609,8,0,Yes, , ,whole Blood,No,No
+GSM1868116.soft,0.07525,Female,4,No,3,36.26103536,No,62,0,54.424194,1,0.11434,15,0.04043,0,27,0.14799,13,0,0,0.05184,African American,0.5834,2,0,No, , ,whole Blood,No,No
+GSM1868080.soft,0.04775,Female, ,No,7,42.63386738,No,27, ,29.54029475, ,0.10397,20,0.06282, ,33,0.18136, , , ,0.02491,African American,0.5771, , ,Yes, , ,whole Blood,No,No
+GSM1868373.soft,0,Male,14,No,9,26.92832602,No,46, ,40.24903921,5,0.0448,10,0.06836, ,25,0.22371,5, , ,0.00977,African American,0.6579,6, ,No, , ,whole Blood,No,No
+GSM1868070.soft,0.04457,Female, , , ,29.65476937, ,32,0,31.85962154, ,0.12641, ,0.02577,4,25,0.07786, ,0,0,0.07638,African American,0.66295, ,0,No, , ,whole Blood,No,No
+GSM1868127.soft,0.10913,Female, ,No, ,27.73413596,No,35,0,38.37372146,6,0.06935,25,0.12373,2,33,0.28709,13,2,0,0.11129,African American,0.32927, ,0,Yes, , ,whole Blood,No,Yes
+GSM1868168.soft,0.04387,Female,12,No,8,36.22255903,No,21, ,24.44381983,4,0.09276,19,0.05693, ,43,0.09369,7, , ,0.0583,African American,0.66661,8, ,Yes, , ,whole Blood,No,No
+GSM1868306.soft,0.11745,Female,15,No,9,42.02666689,No,26,0,29.79145519,6,0.07924,19,0.04415,6,36,0.23543,17,7,0,0.06661,African American,0.47026,8,0,No, , ,whole Blood,No,No
+GSM1946533.soft,0.0808,Female,7,No,5,22.09341714,No,60,--,60.4782,2,0.0892,2,0.0226,--,25,0.1674,4,--,--,0.0289,Caucasian,0.6118,1,--,No, , ,whole Blood,No,No
+GSM1868268.soft,0.04438,Male, ,No,5,19.24149607, ,21, ,26.13688176, ,0.0676,1,0.13873, ,41,0.13214, , , ,0.11989,African American,0.51775, , ,Yes, , ,whole Blood,No, 
+GSM1868334.soft,0.10867,Male,12,No,9,36.25344353,Yes,56,5,57.41221024,3,0.08842,44,0.13255,0,51,0.26033,26,0,0,0.03695,African American,0.39784,2,0,No, , ,whole Blood,Yes,Yes
+GSM1868051.soft,0.10081,Female,15,No,10,23.62844325,No,20, ,22.76989266,5,0.0961,25,0.02401, ,62,0.22823,21, , ,0.10867,African American,0.45612,15, ,Yes, , ,whole Blood,No,Yes
+GSM1868256.soft,0.09156,Female, ,No, ,40.30119416,No,26,6,28.69637151,2,0.09578,9,0.06563,0,35,0.27677,14,8,0,0.01968,African American,0.46025, ,0,Yes, , ,whole Blood,No,No
+GSM1868153.soft,0.03438,Male,19,No,15,31.90725351,No,55,3,62.85529628,4,0.06424,19,0.02209,9,33,0.16585,14,8,0,0,African American,0.72257,7,0,No, , ,whole Blood,No,No
+GSM1868363.soft,0.03937,Female, , , ,27.19145933,No,55,10,52.12499377, ,0.08615,12,0.03745,0,32,0.17005,7,0,0,0.07413,African American,0.60411, ,0,No, , ,whole Blood, ,No
+GSM1868276.soft,0.05552,Male,3,No,2,35.35962693,No,59,0,52.79623142,1,0.08726,2,0.03134,0,29,0.28062, ,0,0,0.01531,African American,0.54947,1,0,No, , ,whole Blood,No,No
+GSM1868101.soft,0.02773,Female,14,Yes,9,28.25486751,Yes,30,10,29.90400879,5,0.08439,39,0.04475,0,54,0.11543,1,0,0,0.10723,African American,0.61885,8,0,Yes, , ,whole Blood,No,Yes
+GSM1946536.soft,0.1217,Female,14,Yes,9,34.98659417,No,45,--,36.1933,5,0.0848,30.8333,0.0802,--,27,0.1701,21,--,--,0.0374,Mixed,0.5396,8,--,No, , ,whole Blood,No,No
+GSM1868128.soft,0.0461,Female,4,No,1,38.8971208,No,27, ,24.7022472,3,0.14538,19,0.07213, ,26,0.09396,0, , ,0.01445,African American,0.63655,1, ,No, , ,whole Blood,No,Yes
+GSM1868150.soft,0.11991,Female,8,No,7,38.27133478,No,60,0,49.80286145,1,0.10085,3,0.07447,0,57,0.19882,9,0,0,0.02457,African American,0.49743,2,0,Yes, , ,whole Blood,No,No
+GSM1946538.soft,0.0657,Female,7,Yes,5,20.82465639,No,50,--,44.378,2,0.071,0,0.1304,--,28,0.3173,24,--,--,0.0138,Caucasian,0.415,1,--,No, , ,whole Blood,No,Yes
+GSM1868118.soft,0.0355,Male,7,No,6,22.93476858,No,52, ,34.69162294,1,0.03392,0,0.04826, ,40,0.25318,18, , ,0.06013,African American,0.5872,4, ,No, , ,whole Blood,No,Yes
+GSM1868204.soft,0.09216,Female,14,Yes,9,31.02772536,No,48,7,56.83974922,5,0.07243,10,0.09321,0,31,0.19843,4,0,0,0.06735,African American,0.50504,7,0,No, , ,whole Blood,No,Yes
+GSM1868133.soft,0.07736,Female,13,No,10,41.89830856,Yes,49, ,49.48417728,3,0.13045,44,0.03068, ,101,0.21278,26, , ,0,African American,0.54194, , ,Yes, , ,whole Blood,No,Yes
+GSM1868390.soft,0.03571,Female,10,Yes,8,32.08023079,No,21,0,24.31140328,2,0.1001,12,0.04623,0,40,0.05062,0,0,0,0.18733,African American,0.59217,4,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868148.soft,0.05656,Female, ,Yes, , , ,46,10,44.36630772, ,0.05682,0,0.06513,0,52,0.23468,3,3,0,0.04292,African American,0.54066,12,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868109.soft,0.01273,Female,11,No,7,36.91549831,No,19, ,22.15480439,4,0.17116,6,0.05952, ,33,0.1374,5, , ,0.03014,African American,0.58842,9, ,No, , ,whole Blood,No,No
+GSM1868267.soft,0.05815,Female,12,No,7,28.10288964,No,55,0,51.20624241,5,0.05443,3,0.16058,4,32,0.13462,15,2,0,0.1774,African American,0.42954,1,0,Yes, , ,whole Blood,No,No
+GSM1868295.soft,0.03449,Female,9,No,6,29.77482741,No,25,0,30.83222465,3,0.14089,14,0.00138,0,28,0.10584,12,0,0,0.00633,African American,0.70948,5,0,No, , ,whole Blood,No,No
+GSM1868249.soft,0.01001,Male, ,No, ,25.82889551,No,27,8,21.06809852,4,0.09585,10,0.06538,0,44,0.15226,9,5,0,0.08646,African American,0.62073, ,0,Yes, , ,whole Blood,No,No
+GSM1868358.soft,0,Female,5,No,2,43.41371782,No,25, ,16.81011233,3,0.08091,0,0.091,3,32,0.12771,8, , ,0.11287,African American,0.61041,0, ,No, , ,whole Blood,No,Yes
+GSM1868157.soft,0.05317,Female,18,Yes,11,40.86224416,Yes,42,10,47.84469343,7,0.10496,40,0.08468,5,71,0.19645,58,0,0,0.00052,African American,0.56316,9,0,Yes, , ,whole Blood,Yes,Yes
+GSM1868348.soft,0.03005,Male, ,No, ,23.72859808,No,47, ,45.6480862,4,0.10206,16,0.06268, ,45,0.27254,37, , ,0,African American,0.55258, , ,Yes, , ,whole Blood,No,No
+GSM1868048.soft,0.08122,Female,13,No,11,22.19486338,No,48, ,49.29034124,2,0.11022,6,0.03522, ,45,0.04607,0, , ,0.12041,African American,0.62015,5, ,No, , ,whole Blood,No,Yes
+GSM1868412.soft,0.09352,Female,10,No,5,49.41849524,No,54,8,49.92134592,5,0.11988,15,0.02585,0,29,0.34977,13,0,0,0.04207,African American,0.37679,2,0,No, , ,whole Blood,No,No
+GSM1868304.soft,0.04194,Female, , , ,24.16723439,No,48,0,41.69989926, ,0.14151,3,0.05049,3,28,0.20556,23,0,0,0.00118,African American,0.574, ,0,No, , ,whole Blood, ,No
+GSM1868357.soft,0.05861,Female,7,No,4,28.72400155,No,19,0,14.97715161,3,0.17006,13,0.06486,0,31,0.12559,20,0,0,0.0821,African American,0.51669,7,0,No, , ,whole Blood,No,No
+GSM1868196.soft,0.12474,Female,12,No,8, ,No,52,0,50.47051236,4,0.08481,18,0.03316,9,61,0.1707,14,0,0,0,African American,0.59677,2,0,No, , ,whole Blood,No,No
+GSM1868117.soft,0.01532,Female,12,No,8,39.44724203,No,56, ,50.13893299,4,0.07769,21,0.05885, ,35,0.26819,23, , ,0.07059,African American,0.5252,5, ,No, , ,whole Blood,No,No
+GSM1946557.soft,0.068,Female,--,No,--,23.11380088,No,51,7,46.7247,3,0.0855,16,0.0913,5,27,0.1111,15,6,0,0.0536,Caucasian,0.6301,--,5,No, , ,whole Blood,No,Yes
+GSM1868210.soft,0.01637,Female,13,No,8,40.45089701,No,32,0,36.34071237,5,0.10894,12,0.04566,0,48,0.1057,11,10,0,0.0989,African American,0.63106,5,0,Yes, , ,whole Blood,No,No
+GSM1868166.soft,0.07762,Male,16,No,10,24.71836735,No,46, ,49.4479585,6,0.08267,10,0.06648, ,33,0.24702,19, , ,0.02187,African American,0.51084,4, ,No, , ,whole Blood,No,No
+GSM1868400.soft,0.01499,Female,11,No,7,25.82185491,No,20,0,20.08755324,4,0.07746,1,0.09214,0,37,0.1455,14,0,0,0.08954,African American,0.59704,5,0,No, , ,whole Blood,No,No
+GSM1868362.soft,0.05603,Female, , , ,24.10143279,No,38,9,35.34626124, ,0.08734,26,0.05988,5,60,0.09375,19,0,0,0.03698,African American,0.68283, ,0,Yes, , ,whole Blood, ,Yes
+GSM1868419.soft,0.08277,Male,11,No,8,26.12244898, ,48,0,51.69828819,3,0.1593,23,0.03813,0,39,0.01655,11,0,0,0.12219,African American,0.59208,3,0,No, , ,whole Blood,No,No
+GSM1868060.soft,0.10282,Male, ,No,6,20.81393474,No,48, ,42.96901918, ,0.07651,6,0.06882, ,58,0.13076,13, , ,0,African American,0.6344,4, ,Yes, , ,whole Blood,No,No
+GSM1868167.soft,0.04959,Female, , , ,36.75338189,No,47,0,49.62351544, ,0.07326,6,0.03392,0,38,0.09177,46,0,0,0.0143,African American,0.73908, ,0,No, , ,whole Blood, ,No
+GSM1868226.soft,0.04259,Female,6,Yes,3,39.6468144,Yes,33,0,33.38263033,3,0.08568,26,0.05138,0,50,0.1452,16,0,0,0.07362,African American,0.61288,3,0,Yes, , ,whole Blood,No,Yes
+GSM1946541.soft,0.0559,Female,14,No,10,26.8946062,No,50,--,45.2823,4,0.0688,28,0.12,--,71,0.2649,21,--,--,0.1011,Caucasian,0.4059,3,--,Yes, , ,whole Blood,No,Yes
+GSM1868174.soft,0.1077,Female,11,No,8, ,No,22,9,24.64375318,3,0.05335,13,0.07791,6,80,0.16044,20,6,0,0.12237,African American,0.47635,5,0,Yes, , ,whole Blood,No,Yes
+GSM1868303.soft,0.06016,Female,8,No,7,30,No,62,0,57.8666054,1,0.13259,3,0.06137,0,25,0.17008, ,0,0,0.03341,African American,0.56196,4,0,No, , ,whole Blood,No,No
+GSM1868284.soft,0.10113,Male,18,No,14,31.85232426,No,58,1,49.01953096,4,0.09492,2,0.14673,1,48,0.27046,9,1,3,0.03404,African American,0.39008,7,1,Yes, , ,whole Blood,Yes,No
+GSM1868169.soft,0.1003,Female,6,No,4,24.65742084,No,44,0,52.32688774,2,0.10949,0,0.01703,6,34,0.13316,8,0,0,0.01249,African American,0.63496,5,0,No, , ,whole Blood,No,No
+GSM1868361.soft,0.07037,Female,11,No,7,52.734375,No,33,0,29.56200412,4,0.06838,0,0.04791,8,31,0.06819, ,0,0,0.10548,African American,0.65523,4,0,No, , ,whole Blood,No,No
+GSM1868231.soft,0.02264,Female,8,No,5,32.45235404,No,25,0,18.96389041,3,0.06249,19,0.05884,0,28,0.23973,16,0,0,0.07975,African American,0.55661,2,0,No, , ,whole Blood,No,No
+GSM1868395.soft,0.09455,Female,15,No,12,31.78146259,No,31, ,41.16312795,3,0.08309,0,0.09448, ,63.5,0.1399,0, , ,0.12071,African American,0.48842,11, ,Yes, , ,whole Blood,Yes,Yes
+GSM1868106.soft,0.12106,Female,14,No,10,31.62792929,No,37, ,42.36778837,4,0.04333,16,0.07322, ,29,0.23709,29, , ,0.21647,African American,0.32941,4, ,No, , ,whole Blood,No,No
+GSM1868246.soft,0.06604,Female,17,No,11,40.0773468,No,46,5,51.62829423,6,0.10896,8,0.07694,0,30,0.19197,7,0,0,0.06984,African American,0.51312,5,0,No, , ,whole Blood,No,Yes
+GSM1868073.soft,0.07758,Female,12,Yes,9,25.35600912,No,34,0,31.7958767,3,0.04361,1,0.09924,3,40,0.28479,22,0,0,0.07083,African American,0.44868,2,0,No, , ,whole Blood,No,Yes
+GSM1868038.soft,0.03721,Male, ,No, , ,No,44, ,45.50017426,5,0.07754,7,0.05598, ,27,0.21137,3, , ,0.013,African American,0.64123, , ,No, , ,whole Blood,No,No
+GSM1868227.soft,0.05752,Female,12,No,9,21.50594724,No,22, ,14.59654424,3,0.09697,26,0.09193, ,30,0.18105,17, , ,0.02236,African American,0.54939,7, ,Yes, , ,whole Blood,No,No
+GSM1868388.soft,0.12667,Female,7,No,5,47.2031109,No,23,0,27.99161748,2,0.09775,39,0.04629,0,47,0.15522,33,0,0,0.13419,African American,0.47158,6,0,Yes, , ,whole Blood,No,No
+GSM1868263.soft,0.03636,Male,12,No,9,36.28587657,No,53,9,54.35328186,3,0.09976,7,0.05448,0,31,0.12433,26,0,0,0.01401,African American,0.69043,4,0,No, , ,whole Blood,No,No
+GSM1868342.soft,0.02886,Female,11,No,7,32.38682119,No,43,0,38.95920213,4,0.08206,0,0.12534,5,25,0.16726,1,0,0,0.10325,African American,0.5607,4,0,No, , ,whole Blood,Yes,Yes
+GSM1868308.soft,0.02403,Female,13,No,8,23.27483641,No,55,7,57.17983237,5,0.05652,27,0.0588,5,41,0.14386,16,0,0,0.0071,African American,0.72697,2,0,Yes, , ,whole Blood,No,No
+GSM1868322.soft,0.07362,Female,9,Yes,7,47.17247844,No,44,9,49.68145623,2,0.09316,2,0.0999,0,30,0.15115,4,0,0,0.0755,African American,0.52208,2,0,No, , ,whole Blood,Yes,Yes
+GSM1868293.soft,0.04419,Male, ,No, ,28.04589439,No,32,5,32.04131946, ,0.12417, ,0.11594,8,36,0.19523,27,8,0,0,African American,0.52011, ,0,No, , ,whole Blood,No,No
+GSM1868260.soft,0.07472,Female,11,No,5,32.29527105,No,50,0,47.92053134,6,0.06609,26,0.0668,0,45,0.25783,36,0,0,0.06133,African American,0.49056,2,0,Yes, , ,whole Blood,No,Yes
+GSM1868186.soft,0.09222,Female,20,Yes,14,26.02432378,Yes,45, ,48.00903575,6,0.12642,46,0.07402, ,42,0.22707,47, , ,0.01086,African American,0.49022,7, ,Yes, , ,whole Blood,No,Yes
+GSM1868052.soft,0.1118,Female,18,Yes,14,32.76221743,Yes,39, ,40.43733573,4,0.10751,8,0.10798, ,31,0.19689,34, , ,0.04076,African American,0.4613,14, ,No, , ,whole Blood,Yes,Yes
+GSM1868235.soft,0.12703,Female,10,No,7,21.21129581, ,24,0,22.83801706,3,0.05437,9,0.05091,8,33.5,0.18063,12,0,0,0.1124,African American,0.48358,10,0,Yes, , ,whole Blood,No, 
+GSM1868328.soft,0.08585,Male,12,No,10,28.07104051,No,44,9,45.43662978,2,0.0789,6,0.12081,11,25,0.19757,2,0,0,0.05917,African American,0.48003,4,0,No, , ,whole Blood,No,No
+GSM1868313.soft,0.07523,Female,10,No,8,23.93606231,No,35,8,40.07896102,2,0.1184,1,0.03319,7,25,0.1919, ,0,0,0.06481,African American,0.53529,3,0,No, , ,whole Blood,No,No
+GSM1868039.soft,0.13834,Female,18,Yes,14,36.70130812,Yes,52, ,60.24381368,4,0.0625,28,0.03871, ,48,0.26965,26, , ,0.01955,African American,0.49233, , ,Yes, , ,whole Blood,No,Yes
+GSM1868044.soft,0.0619,Female,12,Yes,9,34.59727141,No,53,0,39.82010018,3,0.11706,23,0.13881,2,54,0.17953, ,0,0,0,African American,0.53304,3,0,No, , ,whole Blood,No,Yes
+GSM1868040.soft,0.11193,Male, ,No, ,21.03976747,No,24, ,26.24109058, ,0.10872,25,0.10597, ,35,0.18927,29, , ,0.03576,African American,0.46435, , ,No, , ,whole Blood,No,No
+GSM1868258.soft,0.05578,Male,8,No,7,26.42786794,No,29,7,37.68126509,1,0.12795,41,0.04337,9,44.5,0.117,20,12,0,0.02927,African American,0.64461,6,0,No, , ,whole Blood,No,No
+GSM1868113.soft,0.0854,Female, ,No, , ,No,50, ,57.0687248,1,0.07738,0,0.04034, ,27,0.13961,0, , ,0.04934,African American,0.61618, , ,No, , ,whole Blood,No,No
+GSM1946556.soft,0.013,Male,17,No,13,29.56136874,No,56,0,51.6249,4,0.1314,8,0.0405,0,35,0.1609,0,0,0,0.01,Caucasian,0.6651,9,0,No, , ,whole Blood,No,Yes
+GSM1868264.soft,0.0741,Female,10,No,7,24.9107674,No,51,0,57.15526077,3,0.1069,0,0.12776,9,35,0.12797,6,0,0,0.03282,African American,0.55066,1,0,Yes, , ,whole Blood,No,No
+GSM1868066.soft,0.00192,Female,7,No,6, ,No,30,9,29.08911325,1,0.11397,16,0.09326,3,60,0.2041,23,3,0,0.13014,African American,0.47066,5,0,Yes, , ,whole Blood,No,No
+GSM1868429.soft, , , , , , , , , , , , , , , , , , , , , , , , , , ,dsRNase-treated (RNase V1),HEK293T, , , 
+GSM1868274.soft,0.06908,Male,17,No,12,22.43228227,No,35, ,46.56500067,5,0.07356,14,0.07557, ,29,0.1527,7, , ,0.06042,African American,0.5897,6, ,No, , ,whole Blood,No,No
+GSM1868281.soft,0.0246,Male,11,Yes,7,39.84375,No,56,0,54.14543103,4,0.06216,20,0.17218,0,32,0.29395,27,0,0,0.04195,African American,0.46722,7,0,No, , ,whole Blood,No,Yes
+GSM1868345.soft,0.03303,Male,14,No,10,24.73746369,No,48,5,42.90940935,4,0.08726,25,0.03318,11,62,0.21881,14,0,0,0,African American,0.61851,8,9,Yes, , ,whole Blood,No,No
+GSM1868379.soft,0.07635,Female, , , ,29.72437707, ,39,7,34.17915751,3,0.07703,0,0.07422,0,52,0.23582, ,0,0,0.11617,African American,0.45298, ,0,No, , ,whole Blood, , 
+GSM1868365.soft,0.13581,Female, , , , ,No,47,5,42.03202004, ,0.07665,4,0.15132,8,33,0.31835,0,4,0,0.02739,African American,0.28932, ,8,No, , ,whole Blood, ,No
+GSM1868364.soft,0.11801,Female, , , ,38.32189281,No,42,0,44.90708449, ,0.07711,0,0.0538,0,40,0.13245,28,0,0,0.08424,African American,0.55368, ,0,No, , ,whole Blood, ,No
+GSM1868129.soft,0.08868,Female,16,No,12, ,No,40, ,40.05822126,4,0.11099,20,0.04185, ,26,0.15721, , , ,0.03717,African American,0.57477,1, ,No, , ,whole Blood,No,No
+GSM1946555.soft,0.0954,Male,--,No,--,27.26809858,Yes,46,0,49.0421,--,0.0629,47,0.0283,9,55,0.1648,--,6,13,0.0278,Caucasian,0.6294,--,9,Yes, , ,whole Blood,No,Yes
+GSM1868285.soft,0.1693,Male,6,No,3,23.08759413,No,31,0,34.27820456,3,0.05886,11,0.0451,9,27,0.19256,12,0,0,0.10879,African American,0.44596,2,0,No, , ,whole Blood,No,No
+GSM1868217.soft,0.07745,Female,13,No,8,45.73170732,No,33, ,35.74913286,5,0.06533,19,0.08657, ,65,0.19863,33, , ,0.0585,African American,0.53206,6, ,Yes, , ,whole Blood,No,No
+GSM1868104.soft,0.0609,Female,9,No,7, ,No,47,0,39.47844015,2,0.06759,15,0.07511,0,42,0.18833,6,0,0,0,African American,0.61132,4,0,No, , ,whole Blood,Yes,Yes
+GSM1868424.soft,0.08643,Male, ,No,10,29.23951755,No,42,8,48.02190866, ,0.11355,4,0.10485,0,42,0.28771,11,0,0,0.11706,African American,0.31485,7,0,Yes, , ,whole Blood,No,No
+GSM1868245.soft,0.08238,Male,10,Yes,8,24.58964762,No,56,6,64.98810197,2,0.11114,21,0.12032,0,43,0.12365,32,0,0,0.28557,African American,0.29658,3,0,Yes, , ,whole Blood,Yes,Yes
+Filename
+Filename
+Filename
+Filename
+Filename
